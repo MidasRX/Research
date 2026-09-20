@@ -16,3 +16,4 @@ __pycache__/
 scratch_*
 .*_state.json
 .sbox_doc_state.json
+*.ipynb
