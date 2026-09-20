@@ -13,4 +13,4 @@ GEMINI.md
 dataset_*
 *.py
 __pycache__/
-
+scratch_*
