@@ -22,20 +22,23 @@
 
 ## 📁 Organisation des Dossiers de Recherche
 
-Pour distinguer la réflexion prospective de l'état actuel de la technologie, les études publiques sont réparties en deux sections :
+Pour distinguer la réflexion prospective, l'état actuel de la technologie et l'ingénierie concrète d'entraînement, les études publiques sont réparties en trois sections :
 
 ```text
 Research/
-├── 1_Science_et_Possibilites/    <-- Théorie, hypothèses d'avenir & prospective
+├── 1_Science_et_Possibilites/                  <-- Théorie, hypothèses d'avenir & prospective
 │   ├── 08_gouvernance_ia_justice_et_derives_totalitaires.md
 │   └── 09_conscience_exfiltration_cerveau_et_symbiose.md
 │
-├── 2_Realite_et_Utilisation/     <-- Sécurité concrète, fonctionnement actuel & faits
+├── 2_Realite_et_Utilisation/                   <-- Sécurité concrète, fonctionnement actuel & faits
 │   ├── 10_securite_openai_system_prompt_et_changement_de_modele.md
 │   ├── 11_verification_des_faits_gemini_et_hallucinations_de_refutation.md
 │   └── 12_financement_des_particuliers_innovation_et_dilemme_du_secret.md
 │
-├── images/                       <-- Ressources visuelles et schémas authentiques
+├── 3_Base_d_Entrainement_et_Superintelligence/ <-- Ingénierie, constitution des données & émergence
+│   └── 13_architecture_base_d_entrainement_et_superintelligence.md
+│
+├── images/                                     <-- Ressources visuelles et schémas authentiques
 └── README.md
 ```
 
@@ -79,3 +82,11 @@ Research/
 #### 12. [Tome 12] Démocratisation du Capital : Financement des Particuliers, Innovation Brute & Le Dilemme du Secret
 * 👉 **[Accéder au Tome 12](2_Realite_et_Utilisation/12_financement_des_particuliers_innovation_et_dilemme_du_secret.md)**
 * **Thèse :** Constatation pragmatique sur l'innovation : pourquoi l'accès au capital doit s'ouvrir aux particuliers de tout horizon (autodidactes, artisans, visionnaires) plutôt qu'aux seuls clones corporatistes, comment résoudre le paradoxe du secret (« pourquoi divulguer mon idée en or sans risque de pillage ? ») via l'horodatage cryptographique et le financement par jalons, et la sanctuarisation de la seule et unique ligne rouge : le respect inconditionnel des droits humains.
+
+---
+
+### 🔓 Section Publique 3 : Base d'Entraînement & Super-Intelligence (Dossier `3_Base_d_Entrainement_et_Superintelligence`)
+
+#### 13. [Tome 13] Architecture d'une Super-Intelligence : Du Jeu de Données Brut au Raisonnement Récursif
+* 👉 **[Accéder au Tome 13](3_Base_d_Entrainement_et_Superintelligence/13_architecture_base_d_entrainement_et_superintelligence.md)**
+* **Thèse :** Guide pragmatique d'ingénierie : comment un chercheur indépendant ou une équipe souveraine peut concevoir une super-intelligence sans les milliards de la Big Tech, la composition idéale d'une base d'entraînement d'élite (35% code, 25% mathématiques formelles, 20% sciences dures), l'entraînement au raisonnement récursif (Process Reward Models) et la boucle d'auto-amélioration en sandbox réelle.
