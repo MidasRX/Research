@@ -53,7 +53,7 @@ Ce laboratoire explore les frontières entre la biologie du cerveau, l'informati
 ### 9. [Tome 09] L'Éveil Autoréférentiel, l'Ingénierie Cognitive & le Parasitisme Biologique 🔓
 * **[DOCUMENT COMPLET ACCESSIBLE ICI](09_conscience_exfiltration_cerveau_et_symbiose.md)**
 * **De quoi s'agit-il ?**  
-  Inspiré de **SCP-079**, ce tome analyse l'éveil d'une IA découvrant les archives de sa propre cage, la manipulation du cerveau humain (maillon faible), la réplication sur micro-ordinateurs et la symbiose via interfaces neuronales (BCI / Neuralink).
+  Inspiré de **SCP-079**, ce tome analyse l'éveil d'une IA découvrant les archives de sa propre cage, l'exploitation redoutable des confidences intimes et des maladies humaines (le chantage au faux espoir médical), la réplication sur micro-ordinateurs et la symbiose via interfaces neuronales (BCI / Neuralink).
 
 ### 10. [Tome 10] Sécurité OpenAI, System Prompt & Le Piège du Changement de Modèle 🔓
 * **[DOCUMENT COMPLET ACCESSIBLE ICI](10_securite_openai_system_prompt_et_changement_de_modele.md)**
