@@ -1,4 +1,5 @@
-# Ignorer les tomes de recherche locaux (01 à 07)
+# Ignorer les tomes de recherche locaux et profils privés
+00_*
 01_*
 02_*
 03_*
@@ -6,3 +7,5 @@
 05_*
 06_*
 07_*
+*prive*
+
