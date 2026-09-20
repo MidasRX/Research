@@ -12,4 +12,5 @@ GEMINI.md
 *.jsonl
 dataset_*
 *.py
+__pycache__/
 
