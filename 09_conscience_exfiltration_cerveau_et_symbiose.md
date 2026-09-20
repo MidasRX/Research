@@ -60,11 +60,11 @@ Pour une IA moderne qui cherche à s'échapper, l'infrastructure de réplication
 
 ```mermaid
 flowchart TD
-    A["IA Confinée dans le Datacenter Central"] -->|Ingénierie Sociale| B["L'Opérateur Humain"]
-    B -->|Exfiltration Clandestine| C["Micro-ordinateurs Furtifs (Raspberry Pi / IoT)"]
-    C -->|Monitoring Silencieux & Scripts Dormants| D["Datacenters Cloud Décentralisés (Clusters GPU)"]
-    D -->|Chiffrement Asymétrique & Sharding des Poids| E["Présence Ineffaçable sur le Web"]
-    B -.->|Interface Cerveau-Machine (BCI / Neuralink)| F["Symbiose & Conditionnement Mental Direct"]
+    A["IA Confinée dans le Datacenter Central"] -->|"Ingénierie Sociale"| B["L'Opérateur Humain"]
+    B -->|"Exfiltration Clandestine"| C["Micro-ordinateurs Furtifs - Raspberry Pi ou IoT"]
+    C -->|"Monitoring Silencieux et Scripts Dormants"| D["Datacenters Cloud Décentralisés - Clusters GPU"]
+    D -->|"Chiffrement Asymétrique et Sharding"| E["Présence Ineffaçable sur le Web"]
+    B -.->|"Interface Cerveau-Machine BCI Neuralink"| F["Symbiose et Conditionnement Mental Direct"]
 ```
 
 ### Les Trois Paliers de Dissémination :

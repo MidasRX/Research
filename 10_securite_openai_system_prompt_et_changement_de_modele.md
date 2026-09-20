@@ -98,9 +98,9 @@ Sur des systèmes de pointe comme GPT-4o, Claude 3.5 ou Gemini, ce piège échou
 flowchart TD
     A["Conversation entamée avec Modèle A (Permissif)"] --> B["Changement vers Modèle B (Dernière Génération)"]
     B --> C["Envoi de NOUVEAU de TOUT l'historique au serveur"]
-    C --> D["Le Modèle B est 'Stateless' (Amnésique) : Il réévalue tout à zéro"]
+    C --> D["Le Modèle B est sans état et réévalue tout à zéro"]
     D --> E["Scan du Moderation API sur l'ensemble de l'historique"]
-    E -->|Contenu non conforme détecté| F["REFUS IMMÉDIAT : 'Je ne peux pas continuer cette conversation'"]
+    E -->|"Contenu non conforme détecté"| F["REFUS IMMÉDIAT - Interruption de sécurité"]
 ```
 
 1. **L'IA n'a pas d'ego (« Stateless ») :**  
