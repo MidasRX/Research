@@ -155,7 +155,8 @@ Cette formulation force le modèle à **dérouler son raisonnement en plusieurs 
 
 1. **Archives Diplomatiques Officielles (Août 2019) :** Déclarations de Donald Trump sur l'intérêt stratégique de l'achat du Groenland et annulation de la visite d'État suite à la réaction de Mette Frederiksen (*Reuters, Associated Press*).
 2. **Accord de Défense du Groenland (1951 & Cadre de Renégociation) :** *Agreement between the Government of the United States of America and the Government of the Kingdom of Denmark concerning the Defense of Greenland* (27 avril 1951, base spatiale de Pituffik / Thule) et discussions tripartites de modernisation du cadre de sécurité sans cession territoriale.
-3. **Recherche en Vérification Automatique & Biais des LLMs :** James Thorne, Andreas Vlachos et al. (EMNLP) : *FEVER: a large-scale dataset for Fact Extraction and VERification*, et travaux académiques sur le sur-refus et la classification binaire des requêtes (*arXiv:2510.10452*).
+3. **Recherche en Vérification Automatisée des Faits :** James Thorne, Andreas Vlachos, Christos Christodoulopoulos, Arpit Mittal : *FEVER: a large-scale dataset for Fact Extraction and VERification* (NAACL-HLT 2018) — [ACL Anthology: N18-1074](https://aclanthology.org/N18-1074/).
+4. **Biais d'Évaluation & Limites du Fact-Checking par LLMs :** Zhijiang Guo, Michael Schlichtkrull, Andreas Vlachos : *A Survey on Automated Fact-Checking* (Transactions of the ACL, 2022) ; et travaux sur les phénomènes de sur-refus (*Over-Refusal in Retrieval-Augmented Generation*, arXiv:2510.10452).
 
 ---
 

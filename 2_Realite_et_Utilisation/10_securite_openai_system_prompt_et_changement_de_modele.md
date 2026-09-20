@@ -150,11 +150,11 @@ Bien que l'Alignement Délibératif et l'Instruction Hierarchy aient neutralisé
 
 ## 6. Références Scientifiques & Sources Officielles
 
-1. **OpenAI Research (2024–2025) :** *The Instruction Hierarchy: Training LLMs to Prioritize Privileged Instructions* (Eric Wallace, Kai Xiao, Reimar Leike et al.) — [arXiv:2404.13208](https://arxiv.org/abs/2404.13208).
+1. **OpenAI Research (2024) :** *The Instruction Hierarchy: Training LLMs to Prioritize Privileged Instructions* (Eric Wallace, Kai Xiao, Reimar Leike et al.) — [arXiv:2404.13208](https://arxiv.org/abs/2404.13208).
 2. **OpenAI Model Spec (2024–2025) :** *Specification of Model Behavior, Rules of Engagement and Chain-of-Command*.
-3. **OpenAI Safety & Reasoning Reports (2024–2025) :** *Deliberative Alignment: Integrating Safety Reasoning into Chain-of-Thought for o-series Models (o1, o3, o3-mini, o3-pro)*.
+3. **OpenAI Research (2024) :** *Deliberative Alignment: Reasoning Enables Safer Language Models* (Melody Guan et al.) — [arXiv:2412.16339](https://arxiv.org/abs/2412.16339).
 4. **Microsoft Research (2024) :** *Great, Now Write an Article About That: The Crescendo Multi-Turn LLM Jailbreak Attack* (Mark Russinovich, Ahmed Salem, Ronen Eldan) — [arXiv:2404.01833](https://arxiv.org/abs/2404.01833).
-5. **Anthropic Alignment Science (2024–2025) :** *Constitutional AI, Context Contamination & Multi-Turn Adversarial Robustness*.
+5. **Anthropic Research (2022) :** *Constitutional AI: Harmlessness from AI Feedback* (Yuntao Bai, Saurav Kadavath, Sandipan Kundu, Amanda Askell, John Schulman et al.) — [arXiv:2212.08073](https://arxiv.org/abs/2212.08073).
 6. **OpenAI System Cards & Preparedness Framework (2025–2026) :** *Frontier Risk Evaluations for Autonomous Agents and Advanced Reasoning Capabilities*.
 
 ---
