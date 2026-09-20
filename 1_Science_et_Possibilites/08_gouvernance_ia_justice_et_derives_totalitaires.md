@@ -188,6 +188,36 @@ flowchart TD
     G3 -->|"Convergence Dynamique"| PAIX
 ```
 
+---
+
+### C.bis. La Maïeutique Socratique & L'Épreuve des Faits Historiques
+
+Au sein de ce Conseil, la super-intelligence ne se comporte jamais comme un oracle péremptoire qui impose des décrets d'en haut. Son mode opératoire repose sur une **méthode de délibération socratique bidirectionnelle** :
+
+```mermaid
+flowchart TD
+    SI["🧠 Super-Intelligence Délibérative"]
+    SAGE["👥 Sages du Collège Humain"]
+    HIST["📜 Base des Faits Historiques Réels<br/>(Précédents empiriques, chutes d'empires, dérives passées)"]
+
+    SI -->|"1. S'auto-questionne en boucle<br/>(Biais de second ordre, angles morts)"| SI
+    SI -->|"2. Interroge & met à l'épreuve les sages<br/>(Contre-arguments, cas limites)"| SAGE
+    SAGE -->|"3. Soumet des intuitions & jugements"| SI
+    HIST -->|"4. Fournit les précédents réels"| SI
+    SI -->|"5. Confrontation : 'Voici ce qui s'est passé en l'an X...' "| SAGE
+```
+
+1. **L'Auto-Questionnement Réflexif de l'IA :**  
+   Avant de formuler une analyse, la machine s'interroge elle-même en profondeur dans son raisonnement latent : *« Cette solution ne crée-t-elle pas un effet pervers invisible ? Ne risque-t-elle pas d'étouffer une liberté essentielle dans 20 ans ? Quel préjugé statistique inconscient est à l'œuvre ? »*
+2. **Le Questionnement Maïeutique des Sages Humains :**  
+   Face aux propositions des membres humains, l'IA ne dit ni "oui" ni "non" de manière autoritaire. Elle leur pose des **questions déstabilisatrices et constructives** pour tester la solidité de leur jugement éthique et les pousser à dépasser leurs réflexes émotionnels immédiats.
+3. **L'Ancrage Systématique dans les Faits Historiques :**  
+   Pour éclairer chaque dilemme sans dogmatisme abstrait, l'IA convoque la **mémoire empirique de l'Histoire humaine** :
+   * Elle rappelle les précédents historiques documentés : comment telle loi d'interdiction au XVIe siècle a créé un marché noir violent, comment telle mesure de contrôle fiscal à Rome a ruiné les artisans, ou comment telle utopie moralisatrice a dégénéré en inquisition.
+   * L'Histoire devient ainsi le **garde-fou empirique suprême** : elle empêche les humains de reproduire des désastres passés et ancre la réflexion dans la réalité vécue par l'espèce au fil des siècles.
+
+---
+
 ### D. Qu'est-ce que Pluribus ? (Genèse Technique & Métaphore de Gouvernance)
 * **L'Exploit Historique de Pluribus (Brown & Sandholm, Carnegie Mellon / Meta, 2019) :**  
   **Pluribus** est l'intelligence artificielle qui est entrée dans l'histoire pour avoir battu les plus grands champions du monde au poker *Texas Hold'em No-Limit* à **6 joueurs** lors de milliers de mains réelles.
