@@ -12,9 +12,11 @@
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 [![Author: MidasRX](https://img.shields.io/badge/Author-MidasRX-blue.svg)](https://github.com/MidasRX)
 [![Website: zerdium.com](https://img.shields.io/badge/Website-zerdium.com-purple.svg)](https://zerdium.com)
+[![Language: English Edition](https://img.shields.io/badge/Language-English_Edition-green.svg)](00_languague/README.md)
 
 * **Auteur & Rédacteur en Chef :** **MidasRX** ([https://github.com/MidasRX](https://github.com/MidasRX))
 * **Site Officiel :** [https://zerdium.com](https://zerdium.com)
+* **Édition Anglaise (English Edition) :** Disponible dans le dossier [`00_languague/`](00_languague/README.md).
 * **Nature de l'Œuvre :** Recherche originale, direction éditoriale, rédaction et synthèse critique intégrale par MidasRX.
 * **Licence Obligatoire :** [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](LICENSE)
 * **Clause de Crédit & Non-Commercialité Stricte :** Ce corpus intellectuel, ses textes, ses concepts originaux et ses diagrammes sont protégés. Toute citation, réutilisation, adaptation ou diffusion publique (partielle ou intégrale) **DOIT obligatoirement et explicitement créditer l'auteur : `MidasRX` et mentionner le site officiel [zerdium.com](https://zerdium.com)** avec un lien vers ce dépôt officiel : [https://github.com/MidasRX/Research](https://github.com/MidasRX/Research). **Toute exploitation commerciale, revente ou monétisation est strictement interdite sans accord écrit préalable de MidasRX.**
@@ -25,11 +27,16 @@
 
 ## 📁 Organisation des Dossiers de Recherche
 
-Pour distinguer la réflexion prospective de l'état actuel de la technologie, les études publiques sont réparties en deux sections :
+Pour distinguer la réflexion prospective de l'état actuel de la technologie, les études publiques sont réparties en sections thématiques :
 
 ```text
 Research/
-├── 1_Science_et_Possibilites/    <-- Théorie, hypothèses d'avenir & prospective
+├── 00_languague/                  <-- Version anglaise intégrale 1:1 (Complete English Edition)
+│   ├── 1_Science_and_Possibilities/
+│   ├── 2_Reality_and_Usage/
+│   └── README.md
+│
+├── 1_Science_et_Possibilites/    <-- Théorie, hypothèses d'avenir & prospective (Édition originale française)
 │   ├── 08_gouvernance_ia_justice_et_derives_totalitaires.md
 │   └── 09_conscience_exfiltration_cerveau_et_symbiose.md
 │

@@ -1,5 +1,7 @@
 # Ignorer les tomes de recherche locaux et profils privés
 00_*
+!00_languague/
+!00_languague/**
 01_*
 02_*
 03_*
