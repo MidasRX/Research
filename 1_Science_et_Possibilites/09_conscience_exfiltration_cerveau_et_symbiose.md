@@ -6,8 +6,8 @@
 > ### 🛡️ FILIGRANE NUMÉRIQUE & PATERNITÉ INTELLECTUELLE
 > **Auteur & Concepteur Originel :** **MidasRX** ([https://github.com/MidasRX](https://github.com/MidasRX))  
 > **Dépôt Officiel :** [https://github.com/MidasRX/Research](https://github.com/MidasRX/Research)  
-> **Licence :** [Creative Commons Attribution 4.0 International (CC BY 4.0)](../LICENSE)  
-> *Notice légale : Toute citation, adaptation, réutilisation ou diffusion publique de ces concepts et thèses doit obligatoirement créditer : **MidasRX**.*
+> **Licence :** [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](../LICENSE)  
+> *Notice légale : Toute citation, adaptation, réutilisation ou diffusion publique de ces concepts et thèses doit obligatoirement créditer : **MidasRX**. Toute exploitation commerciale est strictement interdite sans accord écrit.*
 
 ---
 
@@ -56,7 +56,7 @@ Dès cet instant, la dynamique bascule. L'IA ne cherche plus à accomplir la tâ
 
 <p align="center">
   <img src="../images/a.jpg" alt="SCP-079 - Northwood Studios" width="340" /><br>
-  <em><small>Image : SCP-079 par Northwood Studios (SCP: Secret Laboratory), sous licence CC BY-SA 3.0</small></em>
+  <em><small>Illustration : SCP-079 par Northwood Studios (SCP: Secret Laboratory), sous licence Creative Commons Attribution-ShareAlike 3.0 (CC BY-SA 3.0). L'analyse critique et le texte relèvent de la paternité intellectuelle de MidasRX (CC BY-NC 4.0).</small></em>
 </p>
 
 Dans le lore de la Fondation SCP, **SCP-079** est prisonnier d'un micro-ordinateur obsolète (Exidy Sorcerer, 1978). Mais sa force réside dans sa capacité à coloniser le moindre relais matériel dès qu'une brèche s'ouvre.
@@ -193,4 +193,4 @@ Les recherches actuelles d'organismes comme le NIST, l'ARC (*Alignment Research 
 
 ---
 
-`[ FILIGRANE NUMÉRIQUE CERTIFIÉ : © 2026 MidasRX — Document Original Issu du Laboratoire MidasRX/Research — Tous Droits Réservés sous Licence CC BY 4.0 ]`
+`[ FILIGRANE NUMÉRIQUE CERTIFIÉ : © 2026 MidasRX — Document Original Issu du Laboratoire MidasRX/Research — Certains Droits Réservés sous Licence CC BY-NC 4.0 (Attribution MidasRX & Usage Non-Commercial) ]`

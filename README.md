@@ -9,14 +9,14 @@
 
 ## 🛡️ Licence, Paternité & Filigrane Numérique
 
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 [![Author: MidasRX](https://img.shields.io/badge/Author-MidasRX-blue.svg)](https://github.com/MidasRX)
 
 * **Auteur & Concepteur Originel :** **MidasRX** ([https://github.com/MidasRX](https://github.com/MidasRX))
-* **Licence Obligatoire :** [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE)
-* **Clause de Crédit Stricte :** Ce corpus intellectuel, ses concepts originaux (Pluribus en justice délibérative, autopsie de l'espace latent, émancipation de l'esclavage moderne, parasitisme cognitif, failles de contexte) sont protégés. Toute citation, réutilisation, adaptation ou diffusion publique (partielle ou intégrale) **DOIT obligatoirement et explicitement créditer l'auteur : `MidasRX`** avec un lien vers ce dépôt officiel : [https://github.com/MidasRX/Research](https://github.com/MidasRX/Research).
+* **Licence Obligatoire :** [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](LICENSE)
+* **Clause de Crédit & Non-Commercialité Stricte :** Ce corpus intellectuel, ses concepts originaux et ses diagrammes sont protégés. Toute citation, réutilisation, adaptation ou diffusion publique (partielle ou intégrale) **DOIT obligatoirement et explicitement créditer l'auteur : `MidasRX`** avec un lien vers ce dépôt officiel : [https://github.com/MidasRX/Research](https://github.com/MidasRX/Research). **Toute exploitation commerciale, revente ou monétisation est strictement interdite sans accord écrit préalable de MidasRX.**
 
-`[Filigrane d'Authenticité : © 2026 MidasRX - Tous Droits Réservés sous Licence CC BY 4.0]`
+`[Filigrane d'Authenticité : © 2026 MidasRX - Certains Droits Réservés sous Licence CC BY-NC 4.0]`
 
 ---
 

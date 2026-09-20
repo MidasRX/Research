@@ -1,25 +1,48 @@
-Creative Commons Attribution 4.0 International Public License
+Creative Commons Attribution-NonCommercial 4.0 International Public License (CC BY-NC 4.0)
 
 Copyright (c) 2026 MidasRX (https://github.com/MidasRX)
+Repository: https://github.com/MidasRX/Research
 
-By exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution 4.0 International Public License ("Public License").
+================================================================================
+RÉSUMÉ JURIDIQUE EN FRANÇAIS (NON-COMMERCIAL & ATTRIBUTION OBLIGATOIRE)
+================================================================================
+Vous êtes libre de :
+- Partager : copier, distribuer et communiquer le matériel par tous moyens et sous tous formats.
+- Adapter : remixer, transformer et créer à partir du matériel.
+
+Selon les conditions suivantes :
+1. ATTRIBUTION STRICTE (BY) : Vous devez obligatoirement créditer l'auteur originel :
+   MidasRX (https://github.com/MidasRX), intégrer un lien vers la licence et indiquer si des
+   modifications ont été effectuées. Vous devez le faire de manière raisonnable, sans suggérer
+   que MidasRX vous soutient ou approuve votre utilisation.
+2. PAS D'UTILISATION COMMERCIALE (NC) : Vous n'avez PAS le droit d'utiliser tout ou partie
+   de ce matériel (textes, thèses, diagrammes, architectures cognitives) à des fins commerciales,
+   lucratives ou promotionnelles sans accord écrit préalable de MidasRX.
+
+================================================================================
+OFFICIAL LEGAL CODE : CC BY-NC 4.0
+================================================================================
+By exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution-NonCommercial 4.0 International Public License ("Public License").
 
 Section 1 -- Definitions.
 a. Adapted Material means material in any manner derived from or based upon the Licensed Material and in which the Licensed Material is translated, altered, arranged, transformed, or otherwise modified in a manner requiring permission under the Copyright and Similar Rights held by the Licensor.
-b. Copyright and Similar Rights means copyright and/or similar rights closely related to copyright including, without limitation, performance, broadcast, sound recording, and Sui Generis Database Rights, without regard to how the rights are labeled or categorized.
-c. Licensor means MidasRX, the individual granting rights under this Public License.
-d. Share means to provide material to the public by any means or process that requires permission under the Licensed Rights, such as reproduction, public display, public performance, distribution, dissemination, communication, or importation.
+b. Commercial Purposes means any use primarily intended for or directed towards commercial advantage or monetary compensation.
+c. Licensor means MidasRX (https://github.com/MidasRX), the individual granting rights under this Public License.
+d. NonCommercial means not primarily intended for or directed towards commercial advantage or monetary compensation.
 
-Section 2 -- Scope.
+Section 2 -- Scope & Rights Granted.
 Subject to the terms and conditions of this Public License, the Licensor hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the Licensed Material to:
-1. reproduce and Share the Licensed Material, in whole or in part; and
-2. produce, reproduce, and Share Adapted Material.
+1. reproduce and Share the Licensed Material, in whole or in part, for NonCommercial purposes only; and
+2. produce, reproduce, and Share Adapted Material for NonCommercial purposes only.
 
-Section 3 -- Attribution / Credit Condition (OBLIGATOIRE).
-If You Share the Licensed Material, You MUST:
-1. Retain identification of the creator(s) of the Licensed Material: MidasRX (https://github.com/MidasRX);
-2. Retain a copyright notice: "Copyright (c) 2026 MidasRX";
-3. Provide a link to this license and to the original repository: https://github.com/MidasRX/Research;
-4. Indicate if You modified the Licensed Material and retain an indication of any previous modifications.
-
-You may satisfy these conditions in any reasonable manner based on the medium, means, and context in which You Share the Licensed Material.
+Section 3 -- Conditions.
+Your exercise of the Licensed Rights is expressly made subject to the following conditions:
+1. Attribution (OBLIGATOIRE) :
+   If You Share the Licensed Material (including in modified form), You MUST:
+   a. Retain identification of the creator : MidasRX (https://github.com/MidasRX);
+   b. Retain copyright notice : "Copyright (c) 2026 MidasRX";
+   c. Retain notice of this CC BY-NC 4.0 license;
+   d. Provide a clickable URL to the official repository : https://github.com/MidasRX/Research;
+   e. Indicate if You modified the Licensed Material.
+2. NonCommercial Restriction (STRICTE) :
+   You may NOT exercise any of the rights granted to You in Section 2 in any manner that is primarily intended for or directed toward commercial advantage or private monetary compensation.

@@ -6,8 +6,8 @@
 > ### 🛡️ FILIGRANE NUMÉRIQUE & PATERNITÉ INTELLECTUELLE
 > **Auteur & Concepteur Originel :** **MidasRX** ([https://github.com/MidasRX](https://github.com/MidasRX))  
 > **Dépôt Officiel :** [https://github.com/MidasRX/Research](https://github.com/MidasRX/Research)  
-> **Licence :** [Creative Commons Attribution 4.0 International (CC BY 4.0)](../LICENSE)  
-> *Notice légale : Toute citation, adaptation, réutilisation ou diffusion publique de ces concepts et synthèses doit obligatoirement créditer : **MidasRX**.*
+> **Licence :** [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](../LICENSE)  
+> *Notice légale : Toute citation, adaptation, réutilisation ou diffusion publique de ces concepts et synthèses doit obligatoirement créditer : **MidasRX**. Toute exploitation commerciale est strictement interdite sans accord écrit.*
 
 ---
 
@@ -159,4 +159,4 @@ Bien que l'Alignement Délibératif et l'Instruction Hierarchy aient neutralisé
 
 ---
 
-`[ FILIGRANE NUMÉRIQUE CERTIFIÉ : © 2026 MidasRX — Document Original Issu du Laboratoire MidasRX/Research — Tous Droits Réservés sous Licence CC BY 4.0 ]`
+`[ FILIGRANE NUMÉRIQUE CERTIFIÉ : © 2026 MidasRX — Document Original Issu du Laboratoire MidasRX/Research — Certains Droits Réservés sous Licence CC BY-NC 4.0 (Attribution MidasRX & Usage Non-Commercial) ]`
