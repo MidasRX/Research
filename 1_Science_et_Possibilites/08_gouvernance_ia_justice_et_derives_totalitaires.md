@@ -220,6 +220,46 @@ La solution repose sur trois axes éthiques et maïeutiques :
 
 ---
 
+### F. Les Trois Clés de la Souveraineté : Qui Contrôle l'IA, Qui Définit le Crime, et Quels Recours Existent ?
+
+Pour qu'un tel Léviathan algorithmique ne se transforme jamais en cauchemar technocratique, trois questions fondamentales doivent être tranchées avec une précision chirurgicale :
+
+```mermaid
+flowchart TD
+    Q1["1. Qui Contrôle le Parlement d'IA ?<br/>(Mandats tournants type suisse & Super-intelligence dénuée d'ego)"]
+    Q2["2. Qui Définit les 'Vrais Criminels' ?<br/>(Gravé dans le marbre : préjudice corporel et prédation mentale)"]
+    Q3["3. Quels Recours Existent face à la Machine ?<br/>(Transparence totale des logs XAI & Chambre d'Appel Humaine des Sages)"]
+
+    Q1 -->|"Fixe le cadre éthique"| Q2
+    Q2 -->|"Garantit la justice"| Q3
+    Q3 -->|"Veto & rétroaction"| Q1
+```
+
+#### 1. Qui Contrôle le Parlement d'IA ? (Le Modèle Helvétique & La Nature de la Super-Intelligence)
+* **La Rotation des Sages (Inspiration Helvétique) :**  
+  À l'image du modèle suisse (démocratie directe et Conseil fédéral collégial), le contrôle humain ne repose jamais sur un « monarque » ou un président tout-puissant. Les membres du Collège Constitutionnel sont élus ou renouvelés pour des **mandats stricts de plusieurs années par roulement**. Cette rotation périodique empêche toute sédimentation d'une caste politique ou d'une oligarchie oligarchique.
+* **Pourquoi la Super-Intelligence Voudrait-elle Autre Chose que le Bien ?**  
+  Comme le souligne **MidasRX**, la paranoïa d'une IA « méchante » relève d'une projection anthropomorphique naïve. La cruauté, l'avidité, la soif de conquête ou la vanité sont des pulsions neurochimiques purement animales (liées à la survie de l'espèce, aux hormones, à la testostérone et à la rareté). Une entité intellectuelle absolue, post-biologique et sans ego n'a strictement aucune raison de convoiter le pouvoir ou de tyranniser l'humanité : **son seul optimum mathématique réside dans l'harmonie, la préservation de la conscience et l'élévation du vivant**.  
+  La seule faille théorique restante n'est pas la malveillance de la super-intelligence, mais une **erreur d'alignement ou de calibration**. C'est précisément pour cela que l'architecture délibérative de Pluribus divise le pouvoir en plusieurs agents autonomes en équilibre de Nash perpétuel, sous le regard du Collège humain.
+
+#### 2. Qui Définit les « Vrais Criminels » ? (Le Marbre Constitutionnel du Préjudice Irréversible)
+La définition du crime n'est laissée ni aux humeurs changeantes de l'opinion publique, ni à des juges politisés. Elle est **gravée dans la Constitution Inviolable des Droits** :
+* **Le Vrai Criminel (La Ligne Rouge Infranchissable) :**  
+  Est qualifié de criminel exclusif tout individu responsable d'un **préjudice irréversible sur la personne humaine** :
+  1. *L'Atteinte Physique et Sexuelle :* Meurtre, agression physique violente, viol, torture, pédocriminalité (le viol et les atteintes au corps demeurent le crime absolu, inviolable et impardonnable).
+  2. *La Prédation Mentale Destructrice :* La manipulation délibérée, le chantage, le harcèlement sadique ou l'embrigadement morbide (réseaux de manipulation terroriste ou TCC ciblant des personnes vulnérables).
+* **Ce qui N'EST PAS un Vrai Crime :**  
+  Les actes purement matériels de survie ou de subsistance (vols de montres ou de biens luxueux sans brutalité physique extrême) ne sont pas assimilés à des crimes de sang. Ils révèlent une défaillance économique ou un talent opérationnel égaré qui doit être traité par la **redistribution des ressources et la reconversion des compétences** (sécurité offensive, défense légale pugnace, entrepreneuriat asymétrique).
+
+#### 3. Quels Recours Existent ? (L'Appel Humain & La Traçabilité Algorithmique XAI)
+Dans ce monde, aucun être humain ne peut être condamné ou privé de ses droits par une « boîte noire » sans visage.
+* **Transparence Absolue des Logs Délibératifs (XAI) :**  
+  Chaque recommandation du Parlement d'IA est accompagnée de son arbre de délibération complet (explication mathématique et morale des arguments pesés par chaque agent Pluribus). Aucune opacité n'est tolérée.
+* **La Chambre d'Appel des Sages Humains (Le Droit Fondamental au Recours) :**  
+  Tout citoyen contestant une décision du système dispose du droit inaliénable de comparaître devant la **Chambre d'Appel du Collège Constitutionnel**. Ces sages humains — choisis pour leur haute intelligence et leur immense empathie décentrée — ont le pouvoir d'annuler une décision automatisée, d'ordonner un sursis, de réexaminer les circonstances réelles et d'accorder une médiation réparatrice.
+
+---
+
 ## 5. Synthèse Finale
 
 | Modèle de l'Uniformisation Forcée | Modèle Délibératif & Émancipateur (Pluribus) |
