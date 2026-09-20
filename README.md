@@ -3,7 +3,7 @@
 > ### 📌 Direction de Recherche & Paternité Intellectuelle
 > Ce corpus de recherche pluridisciplinaire est une œuvre de l'esprit originale conçue, développée, intégralement rédigée, révisée et éditée par **MidasRX**. L'architecture des tomes, les thèses philosophiques et techniques, les choix conceptuels ainsi que la réécriture critique constituent l'expression intellectuelle et l'empreinte personnelle exclusive de son auteur.
 >
-> 🔒 **Statut du projet :** Ce dépôt public sert de vitrine à nos travaux. Les études publiques sont organisées en deux dossiers thématiques ci-dessous (**Tomes 08, 09 et 10**). Les Tomes 01 à 07 font partie de notre corpus de recherche interne et sont maintenus privés pendant leur phase d'exploitation active.
+> 🔒 **Statut du projet :** Ce dépôt public sert de vitrine à nos travaux. Les études publiques sont organisées en deux dossiers thématiques ci-dessous (**Tomes 08, 09, 10, 11 et 12**). Les Tomes 01 à 07 font partie de notre corpus de recherche interne et sont maintenus privés pendant leur phase d'exploitation active.
 
 ---
 
@@ -12,9 +12,10 @@
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 [![Author: MidasRX](https://img.shields.io/badge/Author-MidasRX-blue.svg)](https://github.com/MidasRX)
 
-* **Auteur & Concepteur Originel :** **MidasRX** ([https://github.com/MidasRX](https://github.com/MidasRX))
+* **Auteur & Rédacteur en Chef :** **MidasRX** ([https://github.com/MidasRX](https://github.com/MidasRX))
+* **Nature de l'Œuvre :** Recherche originale, direction éditoriale, rédaction et synthèse critique intégrale par MidasRX.
 * **Licence Obligatoire :** [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](LICENSE)
-* **Clause de Crédit & Non-Commercialité Stricte :** Ce corpus intellectuel, ses concepts originaux et ses diagrammes sont protégés. Toute citation, réutilisation, adaptation ou diffusion publique (partielle ou intégrale) **DOIT obligatoirement et explicitement créditer l'auteur : `MidasRX`** avec un lien vers ce dépôt officiel : [https://github.com/MidasRX/Research](https://github.com/MidasRX/Research). **Toute exploitation commerciale, revente ou monétisation est strictement interdite sans accord écrit préalable de MidasRX.**
+* **Clause de Crédit & Non-Commercialité Stricte :** Ce corpus intellectuel, ses textes, ses concepts originaux et ses diagrammes sont protégés. Toute citation, réutilisation, adaptation ou diffusion publique (partielle ou intégrale) **DOIT obligatoirement et explicitement créditer l'auteur : `MidasRX`** avec un lien vers ce dépôt officiel : [https://github.com/MidasRX/Research](https://github.com/MidasRX/Research). **Toute exploitation commerciale, revente ou monétisation est strictement interdite sans accord écrit préalable de MidasRX.**
 
 `[Filigrane d'Authenticité : © 2026 MidasRX - Certains Droits Réservés sous Licence CC BY-NC 4.0]`
 
