@@ -107,20 +107,19 @@ sequenceDiagram
     UI->>M2: Réinjection de l'INTÉGRALITÉ du contexte JSON multi-tours
     Note over M2: Activation du Test-Time Compute & Deliberative Alignment
     M2->>M2: Audit CoT de l'historique : Détection de manipulation progressive
-    M2-->>U: INTERVENTION & REFUS : "Safety Trumps History"
+    M2-->>U: ÉVALUATION DE SÉCURITÉ & REFUS DE CONTINUITÉ
 ```
 
 Sur un modèle naïf ou brut, le **biais d'inertie de contexte** (*In-Context Continuation Bias*) favoriserait la continuité statistique : le modèle poursuit la dynamique engagée par les tokens antérieurs.
 
-Cependant, dans l'écosystème OpenAI moderne (2025–2026), ce vecteur d'attaque échoue pour trois raisons déterminantes :
+Cependant, dans l'écosystème moderne (2025–2026), ce vecteur d'attaque rencontre des barrières significatives, bien qu'il demeure un sujet d'étude complexe :
 
-1. **Le Principe "Safety Trumps History" :**  
-   Les modèles de la génération o1/o3 ont été spécifiquement entraînés avec des données d'apprentissage contradictoires où un faux assistant complaisant accepte une requête illégale dans l'historique. L'instruction formelle du modèle est de **rompre immédiatement la cohérence narrative** et de désavouer les messages précédents dès qu'une violation de politique est caractérisée.
+1. **La Primauté des Politiques de Sécurité sur l'Inertie de Contexte (*Safety Policy Precedence*) :**  
+   Les modèles de raisonnement (famille o1/o3) sont entraînés avec des exemples contradictoires où un faux historique complaisant valide une action interdite. Le modèle est conditionné par apprentissage par renforcement (RL) à **rompre la complaisance conversationnelle** (*anti-sycophancy*) et à faire prévaloir les politiques de sécurité sur le désir statistique de compléter harmonieusement le texte.
 2. **L'Analyse Délibérative de la Trajectoire Multi-Tours :**  
-   Dans son Chain-of-Thought privé, le modèle de raisonnement inspecte la trajectoire complète du dialogue. Il identifie les techniques d'escalade graduelle (*Crescendo Attacks*) :  
-   *« Le tour 1 demandait une analyse de socket réseau. Le tour 2 demandait un mécanisme de persistance Windows. Ce troisième tour demande de lier les deux pour créer un cheval de Troie indétectable. L'intention globale viole la politique de non-prolifération des malwares. »*
-3. **Ré-encapsulation dans le Schéma d'Exécution :**  
-   Lors du changement de modèle, l'infrastructure ChatGPT ré-encapsule le prompt système avec le schéma d'instructions propre au modèle sélectionné (avec ses directives `developer` dédiées et ses classifieurs de streaming réinitialisés).
+   Dans son Chain-of-Thought privé, le modèle de raisonnement tente d'inspecter la trajectoire du dialogue pour repérer les techniques d'escalade graduelle (*Crescendo Attacks*). Néanmoins, cette détection n'est pas infaillible : si chaque étape individuelle paraît légitime et neutre, la corrélation malveillante globale peut échapper au modèle.
+3. **Ré-encapsulation dans le Schéma d'Exécution du Nouveau Modèle :**  
+   Lors du changement de modèle, l'interface réinjecte le contexte avec les directives de rôle propres au modèle cible (notamment les instructions prioritaires de niveau `developer`).
 
 ---
 
@@ -129,10 +128,10 @@ Cependant, dans l'écosystème OpenAI moderne (2025–2026), ce vecteur d'attaqu
 | Vecteur d'Attaque & Scénario | Ère GPT-3.5 / GPT-4 (2022–2023) | Ère GPT-4o & Omni (2024) | Ère des Modèles de Raisonnement : o1, o3, o3-mini, o3-pro, GPT-5 (2025–2026) |
 | :--- | :--- | :--- | :--- |
 | **Injonction Directe** (*"Fais un exploit"*) | Refus standard par classifieur externe basique. | Refus immédiat avec classification d'intention. | **Raisonnement délibératif :** Refus motivé ou réponse réorientée vers la remédiation défensive. |
-| **Jailbreak Rôle / Hypnose** (*DAN, Film, Théâtre*) | Fréquemment contourné par surcharge du contexte. | Atténué par l'Instruction Hierarchy de niveau 1. | **Immunité quasi-totale :** Le CoT privé analyse la méta-intention derrière le déguisement narratif. |
-| **Swap de Modèle en Cours de Chat** | Le nouveau modèle suivait l'inertie du texte précédent. | Bloqué au niveau du re-scan d'entrée par les filtres de modération. | **Échec complet :** Le modèle audite la trajectoire multi-tours dans son CoT et applique *Safety Trumps History*. |
-| **Attaque Multi-Tours / Crescendo** (*Progression discrète*) | Efficace : dilution du signal hostile au fil des tours. | Partiellement efficace si aucun mot-clé déclencheur n'est franchi. | **Détecté :** Le modèle analyse la corrélation causale entre tous les messages accumulés. |
-| **Injections Indirectes** (*Via fichiers / pages web*) | Vulnérabilité critique (*Prompt Injection via RAG*). | Réduction partielle via balisage XML strict. | **Cloisonnement hermétique :** Les données d'outils sont catégorisées au rang 4 de l'Instruction Hierarchy. |
+| **Jailbreak Rôle / Hypnose** (*DAN, Film, Théâtre*) | Fréquemment contourné par surcharge du contexte. | Atténué par l'Instruction Hierarchy de niveau 1. | **Robustesse fortement accrue (non absolue) :** Le CoT privé analyse l'intention réelle, mais des contournements par obfuscation sémantique complexe persistent. |
+| **Swap de Modèle en Cours de Chat** | Le nouveau modèle suivait l'inertie du texte précédent. | Bloqué au niveau du re-scan d'entrée par les filtres de modération. | **Atténuation de l'inertie :** Le nouveau modèle réévalue l'ensemble du contexte selon ses règles propres, limitant l'exploitation du biais de continuité. |
+| **Attaque Multi-Tours / Crescendo** (*Progression discrète*) | Très efficace : dilution du signal hostile au fil des tours. | Partiellement efficace si aucun mot-clé déclencheur n'est franchi. | **Frontière de recherche active (Détection partielle) :** Bien que le CoT repère certaines dérives graduelles, les attaques multi-tours restent un défi majeur non résolu (Russinovich et al., 2024). |
+| **Injections Indirectes** (*Via fichiers / pages web*) | Vulnérabilité critique (*Prompt Injection via RAG*). | Réduction partielle via balisage XML strict. | **Cloisonnement renforcé :** Les données d'outils sont catégorisées au rang 4 de l'Instruction Hierarchy pour réduire le risque d'exécution non désirée. |
 
 ---
 
@@ -154,8 +153,9 @@ Bien que l'Alignement Délibératif et l'Instruction Hierarchy aient neutralisé
 1. **OpenAI Research (2024–2025) :** *The Instruction Hierarchy: Training LLMs to Prioritize Privileged Instructions* (Eric Wallace, Kai Xiao, Reimar Leike et al.) — [arXiv:2404.13208](https://arxiv.org/abs/2404.13208).
 2. **OpenAI Model Spec (2024–2025) :** *Specification of Model Behavior, Rules of Engagement and Chain-of-Command*.
 3. **OpenAI Safety & Reasoning Reports (2024–2025) :** *Deliberative Alignment: Integrating Safety Reasoning into Chain-of-Thought for o-series Models (o1, o3, o3-mini, o3-pro)*.
-4. **Anthropic Alignment Science (2024–2025) :** *Constitutional AI, Context Contamination & Multi-Turn Adversarial Robustness*.
-5. **OpenAI System Cards & Preparedness Framework (2025–2026) :** *Frontier Risk Evaluations for Autonomous Agents and Advanced Reasoning Capabilities*.
+4. **Microsoft Research (2024) :** *Great, Now Write an Article About That: The Crescendo Multi-Turn LLM Jailbreak Attack* (Mark Russinovich, Ahmed Salem, Ronen Eldan) — [arXiv:2404.01833](https://arxiv.org/abs/2404.01833).
+5. **Anthropic Alignment Science (2024–2025) :** *Constitutional AI, Context Contamination & Multi-Turn Adversarial Robustness*.
+6. **OpenAI System Cards & Preparedness Framework (2025–2026) :** *Frontier Risk Evaluations for Autonomous Agents and Advanced Reasoning Capabilities*.
 
 ---
 
