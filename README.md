@@ -16,15 +16,15 @@ Le travail complet et approfondi est développé en détail dans le fichier déd
 
 ## ⚡ Résumé Exécutif des Thèses Explorées
 
-Face aux défaillances des institutions judiciaires, à la polarisation politique et aux menaces de surveillance (type *Chat Control*), cette étude confronte deux visions de la super-intelligence :
+Face aux défaillances des institutions judiciaires, à la polarisation politique et aux dérives de contrôle (type *Chat Control*), cette étude explore la racine profonde du chaos social et le rôle d'une super-intelligence :
 
-1. **Le Débat de l'Unification Absolue (Parti unique, Idéologie unique, Orientation unique) :**  
-   L'hypothèse d'éliminer les divisions en harmonisant tous les citoyens sous une identité commune est analysée. Si l'objectif recherché est de supprimer les frictions et les discriminations, sa réalisation exigerait une dystopie de l'uniformité (l'esprit de ruche) et la destruction de la richesse biologique et culturelle humaine.
-2. **La Ligne Rouge Inviolable : Crimes Réels vs Libertés Individuelles :**  
-   La justice a pour mission sacrée de neutraliser les prédateurs réels (viol, pédocriminalité) et de réparer les victimes. En revanche, l'orientation affective et l'identité personnelle relèvent de la liberté inaliénable de personnes consentantes et ne doivent jamais être ciblées.
-3. **L'Alternative Pluribus : L'Équilibre dans la Diversité :**  
-   Inspirée du système de théorie des jeux **Pluribus** (équilibre de Nash), l'étude propose une architecture constitutionnelle à **conscience multiple** : un parlement d'agents éthiques assurant la paix et la sécurité de tous sans jamais effacer les singularités individuelles.
+1. **La Racine du Chaos : Le Vide Existentiel et l'Esclavage Moderne :**  
+   L'être humain a un besoin viscéral d'un but noble dans sa vie. La société actuelle l'enferme dans un esclavage moderne aliénant (« métro-boulot-dodo », divertissement jetable). Privé de grand dessein, le désespoir des masses est canalisé par les élites vers des guerres fratricides et la haine tribale.
+2. **Le Débat de l'Unification Absolue vs Le Piège de la Ruche :**  
+   L'hypothèse de supprimer les conflits en forçant un parti unique, une idéologie unique et une orientation commune est déconstruite : l'uniformité forcée détruit la biodiversité et l'individualité. La justice doit impérativement frapper les vrais criminels (viol, pédocriminalité) sans jamais attenter aux libertés individuelles intimes.
+3. **L'Alternative Pluribus : Libération et Équilibre de Nash :**  
+   Inspirée du système délibératif **Pluribus**, l'IA constitutionnelle n'est pas un despote, mais un émancipateur : elle automatise le labeur pénible pour briser l'esclavage moderne, protège les citoyens contre la prédation, et offre à l'humanité le temps et les moyens de poursuivre des buts universels grandioses (conquête spatiale, éradication des maladies, élévation de l'esprit).
 
 ---
 
-*Consultez le document [`08_gouvernance_ia_justice_et_derives_totalitaires.md`](08_gouvernance_ia_justice_et_derives_totalitaires.md) pour les schémas d'architecture, la déconstruction mathématique et les analyses complètes.*
+*Consultez le document [`08_gouvernance_ia_justice_et_derives_totalitaires.md`](08_gouvernance_ia_justice_et_derives_totalitaires.md) pour les schémas d'architecture, la déconstruction philosophique et les analyses complètes.*
