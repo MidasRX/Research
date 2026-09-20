@@ -11,13 +11,15 @@
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 [![Author: MidasRX](https://img.shields.io/badge/Author-MidasRX-blue.svg)](https://github.com/MidasRX)
+[![Website: zerdium.com](https://img.shields.io/badge/Website-zerdium.com-purple.svg)](https://zerdium.com)
 
 * **Auteur & Rédacteur en Chef :** **MidasRX** ([https://github.com/MidasRX](https://github.com/MidasRX))
+* **Site Officiel :** [https://zerdium.com](https://zerdium.com)
 * **Nature de l'Œuvre :** Recherche originale, direction éditoriale, rédaction et synthèse critique intégrale par MidasRX.
 * **Licence Obligatoire :** [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](LICENSE)
-* **Clause de Crédit & Non-Commercialité Stricte :** Ce corpus intellectuel, ses textes, ses concepts originaux et ses diagrammes sont protégés. Toute citation, réutilisation, adaptation ou diffusion publique (partielle ou intégrale) **DOIT obligatoirement et explicitement créditer l'auteur : `MidasRX`** avec un lien vers ce dépôt officiel : [https://github.com/MidasRX/Research](https://github.com/MidasRX/Research). **Toute exploitation commerciale, revente ou monétisation est strictement interdite sans accord écrit préalable de MidasRX.**
+* **Clause de Crédit & Non-Commercialité Stricte :** Ce corpus intellectuel, ses textes, ses concepts originaux et ses diagrammes sont protégés. Toute citation, réutilisation, adaptation ou diffusion publique (partielle ou intégrale) **DOIT obligatoirement et explicitement créditer l'auteur : `MidasRX` et mentionner le site officiel [zerdium.com](https://zerdium.com)** avec un lien vers ce dépôt officiel : [https://github.com/MidasRX/Research](https://github.com/MidasRX/Research). **Toute exploitation commerciale, revente ou monétisation est strictement interdite sans accord écrit préalable de MidasRX.**
 
-`[Filigrane d'Authenticité : © 2026 MidasRX - Certains Droits Réservés sous Licence CC BY-NC 4.0]`
+`[Filigrane d'Authenticité : © 2026 MidasRX (zerdium.com) - Certains Droits Réservés sous Licence CC BY-NC 4.0]`
 
 ---
 

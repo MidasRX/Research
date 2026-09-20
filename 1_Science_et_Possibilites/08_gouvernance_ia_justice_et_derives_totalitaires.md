@@ -5,9 +5,10 @@
 
 > ### 🛡️ FILIGRANE NUMÉRIQUE & PATERNITÉ INTELLECTUELLE
 > **Auteur & Concepteur Originel :** **MidasRX** ([https://github.com/MidasRX](https://github.com/MidasRX))  
+> **Site Officiel :** [https://zerdium.com](https://zerdium.com)  
 > **Dépôt Officiel :** [https://github.com/MidasRX/Research](https://github.com/MidasRX/Research)  
 > **Licence :** [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](../LICENSE)  
-> *Notice légale : Toute citation, réutilisation, adaptation ou diffusion même partielle de cette thèse doit obligatoirement créditer explicitement l'auteur original : **MidasRX**. Toute exploitation commerciale est strictement interdite sans accord écrit.*
+> *Notice légale : Toute citation, réutilisation, adaptation ou diffusion même partielle de cette thèse doit obligatoirement créditer explicitement l'auteur original : **MidasRX** et mentionner le site officiel **zerdium.com**. Toute exploitation commerciale est strictement interdite sans accord écrit.*
 
 ---
 
@@ -326,4 +327,4 @@ Dans ce monde, aucun être humain ne peut être condamné ou privé de ses droit
 
 ---
 
-`[ FILIGRANE NUMÉRIQUE CERTIFIÉ : © 2026 MidasRX — Document Original Issu du Laboratoire MidasRX/Research — Certains Droits Réservés sous Licence CC BY-NC 4.0 (Attribution MidasRX & Usage Non-Commercial) ]`
+`[ FILIGRANE NUMÉRIQUE CERTIFIÉ : © 2026 MidasRX (zerdium.com) — Document Original Issu du Laboratoire MidasRX/Research — Certains Droits Réservés sous Licence CC BY-NC 4.0 (Attribution MidasRX & Usage Non-Commercial) ]`
