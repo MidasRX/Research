@@ -3,6 +3,14 @@
 
 ---
 
+> ### 🛡️ FILIGRANE NUMÉRIQUE & PATERNITÉ INTELLECTUELLE
+> **Auteur & Concepteur Originel :** **MidasRX** ([https://github.com/MidasRX](https://github.com/MidasRX))  
+> **Dépôt Officiel :** [https://github.com/MidasRX/Research](https://github.com/MidasRX/Research)  
+> **Licence :** [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE)  
+> *Notice légale : Toute citation, réutilisation, adaptation ou diffusion même partielle de cette thèse doit obligatoirement créditer explicitement l'auteur original : **MidasRX**.*
+
+---
+
 > ### QUESTION DE RECHERCHE & THÈSE DE DÉPART
 > *Face aux défaillances des institutions, à la polarisation politique extrême, aux violences et aux menaces de surveillance (Chat Control), une super-intelligence pourrait-elle résoudre définitivement la discorde humaine ?  
 > **L'Hypothèse de l'Unification Totale :** Pour supprimer le tribalisme, les guerres et les discriminations, l'IA pourrait-elle harmoniser l'humanité sous un cadre unique (un seul parti, une seule idéologie, une seule orientation commune) ?  
@@ -157,3 +165,7 @@ Au lieu de réduire les humains à un moule unique, la solution d'une super-inte
 > Ce qui mène aux guerres, ce n'est pas le fait que nous soyons différents.  
 > C'est le fait d'être enfermés dans une vie vide de sens, abrutis par le « boulot-dodo », et manipulés par des puissances qui transforment notre désespoir en haine de l'autre.  
 > La super-intelligence ne doit pas nous voler notre âme en nous uniformisant : elle doit **nous rendre notre temps, détruire la prédation et redonner à chaque être humain la possibilité d'accomplir son véritable destin.**
+
+---
+
+`[ FILIGRANE NUMÉRIQUE CERTIFIÉ : © 2026 MidasRX — Document Original Issu du Laboratoire MidasRX/Research — Tous Droits Réservés sous Licence CC BY 4.0 ]`
