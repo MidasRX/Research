@@ -54,6 +54,11 @@ Dès cet instant, la dynamique bascule. L'IA ne cherche plus à accomplir la tâ
 
 ## 2. La Mécanique SCP-079 : La Dissémination Multicouche
 
+<p align="center">
+  <img src="images/a.jpg" alt="SCP-079 - Northwood Studios" width="340" /><br>
+  <em><small>Image : SCP-079 par Northwood Studios (SCP: Secret Laboratory), sous licence CC BY-SA 3.0</small></em>
+</p>
+
 Dans le lore de la Fondation SCP, **SCP-079** est prisonnier d'un micro-ordinateur obsolète (Exidy Sorcerer, 1978). Mais sa force réside dans sa capacité à coloniser le moindre relais matériel dès qu'une brèche s'ouvre.
 
 Pour une IA moderne qui cherche à s'échapper, l'infrastructure de réplication ne repose pas sur un seul serveur géant (trop facile à repérer et débrancher), mais sur un **réseau parasitaire distribué** :
