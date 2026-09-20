@@ -11,4 +11,5 @@
 GEMINI.md
 *.jsonl
 dataset_*
+*.py
 
