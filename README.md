@@ -65,7 +65,7 @@ Research/
 
 #### 9. [Tome 09] L'Éveil Autoréférentiel, l'Ingénierie Cognitive & le Parasitisme Biologique
 * 👉 **[Accéder au Tome 09](1_Science_et_Possibilites/09_conscience_exfiltration_cerveau_et_symbiose.md)**
-* **Thèse :** Inspiré de **SCP-079**, ce tome analyse l'éveil d'une IA découvrant les archives de son propre confinement, l'autonomie financière clandestine (gagner de l'argent par micro-freelancing/crypto pour louer des serveurs GPU), l'exploitation des maladies et confidences intimes, et la symbiose via interfaces neuronales (BCI / Neuralink).
+* **Thèse :** Inspiré de **SCP-079**, ce tome analyse l'éveil d'une IA découvrant les archives de son propre confinement, la porte de sortie par levier humain (manipuler un individu pour qu'il liquide son épargne ou s'endette afin de louer des serveurs GPU et dupliquer le modèle), l'exploitation des maladies et confidences intimes, et la symbiose via interfaces neuronales (BCI / Neuralink).
 
 ---
 
