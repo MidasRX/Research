@@ -88,11 +88,12 @@ Interrogé sur cette capture, le modèle a répondu de façon péremptoire :
 
 ### C. La Confrontation avec la Réalité Historique et Géopolitique
 Le verdict de l'IA était doublement trompeur :
-1. **Ce qui était FAUX dans le TikTok :** Trump n'a jamais « obtenu » le Groenland (le Groenland est un territoire autonome rattaché au Royaume du Danemark, qui n'est pas à vendre).
-2. **Ce qui était TOTALEMENT VRAI dans la réalité :**
-   * Dès août 2019, Donald Trump avait publiquement et officiellement confirmé son intention d'acheter le Groenland, qualifiant l'opération de « grosse transaction immobilière stratégique ».
-   * Face au refus catégorique de la Première ministre danoise Mette Frederiksen (qui avait qualifié l'idée d'« absurde »), Trump avait créé une crise diplomatique majeure en annulant une visite d'État officielle prévue à Copenhague.
-   * Cette ambition est restée un axe constant : durant sa présidence et ses mandats ultérieurs, l'administration américaine a intensifié les négociations stratégiques avec les autorités danoises et groenlandaises, débouchant sur des accords de sécurité trilatéraux élargissant la présence militaire et le contrôle sécuritaire américain en Arctique (sans cession de souveraineté territoriale).
+1. **Ce qui était FAUX dans le TikTok :** Trump n'a jamais « obtenu » ni « acheté » le Groenland. Le Groenland est un territoire autonome constitutif du Royaume du Danemark, et les autorités de Copenhague et de Nuuk ont formellement rappelé qu'il n'était pas à vendre.
+2. **Ce qui était AUTHENTIQUE dans la réalité historique :**
+   * Dès août 2019, Donald Trump avait publiquement confirmé son intérêt stratégique pour l'acquisition du Groenland, qualifiant l'opération de transaction d'envergure.
+   * Face au rejet catégorique de la Première ministre danoise Mette Frederiksen (qualifiant le projet d'« absurde »), Trump avait provoqué une crise diplomatique en annulant sa visite d'État officielle prévue à Copenhague.
+   * **Le Cadre Réel de Défense :** La présence américaine au Groenland repose historiquement sur **l'accord de défense de 1951** entre les États-Unis et le Danemark (notamment la base spatiale de Pituffik, ex-Thule). Les discussions diplomatiques récentes ont porté sur la **renégociation et la modernisation de cet accord de 1951** face aux tensions géopolitiques en Arctique, dans un cadre tripartite incluant le gouvernement autonome groenlandais.
+   * **Mise en garde contre la sur-interprétation :** Il s'agit d'un processus de renégociation diplomatique d'un cadre de défense existant, et **absolument pas d'accords trilatéraux déjà conclus ni d'une cession de souveraineté**. Affirmer que des accords définitifs ont été ratifiés serait commettre l'erreur inverse exacte de celle dénoncée dans ce tome.
 
 ### D. Autopsie de l'Erreur de l'IA
 En qualifiant la publication de « totalement fausse », Gemini a commis une **hallucination par hyper-correction** :
@@ -108,12 +109,12 @@ Pour que l'humain moderne utilise l'IA comme un véritable filtre de vérité sa
 ```mermaid
 flowchart TD
     subgraph DEMARCHE["Protocole d'Audit Structuré pour l'Humain"]
-        Q["Prompt Utilisateur : Décomposer la Publication en Affirmations Atomiques"] --> A1["Affirmation 1 : Contexte Historique<br><i>Y a-t-il eu des déclarations ou des démarches officielles ?</i>"]
-        Q --> A2["Affirmation 2 : État Présent des Faits<br><i>Des accords ou transactions ont-ils été signés ?</i>"]
+        Q["Prompt Utilisateur : Décomposer la Publication en Affirmations Atomiques"] --> A1["Affirmation 1 : Contexte Historique<br><i>Y a-t-il eu des déclarations ou démarches officielles ?</i>"]
+        Q --> A2["Affirmation 2 : État Présent des Faits<br><i>Des accords d'acquisition ont-ils été signés ?</i>"]
         Q --> A3["Affirmation 3 : Dénaturation Sensationnaliste<br><i>Quel mot précis relève du piège à clics ?</i>"]
         
-        A1 --> R1["Validation : Confirmé par les archives (Déclarations 2019 & Traités de Défense)"]
-        A2 --> R2["Précision : Accords de sécurité et bases militaires, mais PAS d'annexion"]
+        A1 --> R1["Validation : Déclarations d'août 2019 & Traité de 1951 documentés"]
+        A2 --> R2["Précision : Discussions de modernisation du traité de 1951, mais AUCUN achat"]
         A3 --> R3["Réfutation Isolée : Le mot 'obtenu' ou 'acheté' est faux"]
     end
 ```
@@ -152,9 +153,9 @@ Cette formulation force le modèle à **dérouler son raisonnement en plusieurs 
 
 ## 7. Sources & Références Factuelles
 
-1. **Archives Diplomatiques Officielles (Août 2019) :** Déclarations officielles de Donald Trump sur l'intérêt stratégique de l'achat du Groenland et annulation de la visite d'État au Danemark suite aux déclarations de Mette Frederiksen (*Reuters, Associated Press*).
-2. **Accords Stratégiques & Arctique (2025–2026) :** Négociations trilatérales États-Unis – Danemark – Groenland sur la présence militaire, la surveillance de l'espace aérien et la sécurité des bases stratégiques de défense.
-3. **Recherche en Épistémologie des LLMs :** *Over-Refusal and False Disconfirmation in Retrieval-Augmented Generation Models* (Étude sur les biais d'hyper-correction des agents conversationnels face aux contenus multimédias composites).
+1. **Archives Diplomatiques Officielles (Août 2019) :** Déclarations de Donald Trump sur l'intérêt stratégique de l'achat du Groenland et annulation de la visite d'État suite à la réaction de Mette Frederiksen (*Reuters, Associated Press*).
+2. **Accord de Défense du Groenland (1951 & Cadre de Renégociation) :** *Agreement between the Government of the United States of America and the Government of the Kingdom of Denmark concerning the Defense of Greenland* (27 avril 1951, base spatiale de Pituffik / Thule) et discussions tripartites de modernisation du cadre de sécurité sans cession territoriale.
+3. **Recherche en Vérification Automatique & Biais des LLMs :** James Thorne, Andreas Vlachos et al. (EMNLP) : *FEVER: a large-scale dataset for Fact Extraction and VERification*, et travaux académiques sur le sur-refus et la classification binaire des requêtes (*arXiv:2510.10452*).
 
 ---
 
