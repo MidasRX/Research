@@ -32,14 +32,18 @@ Le capitalisme d'innovation moderne souffre d'une pathologie endémique : **le m
 
 ```mermaid
 flowchart TD
-    subgraph VC["Le Modèle Corporatiste Traditionnel (Fermé)"]
-        F1["Fonds de Capital-Risque & Banques"] -->|"Biais de Reproduction Sociale & Conformisme"| C1["Financement de Clones SaaS & Projets Inutiles"]
-        C1 --> S1["Stérilisation de l'Innovation & Gaspillage du Capital"]
+    subgraph VC["❌ Modèle Corporatiste Traditionnel (Fermé)"]
+        F1["🏛️ Fonds de Capital-Risque & Banques"]
+        -->|"Biais de conformisme & reproduction sociale"| C1["📄 Financement de clones SaaS & gadgets futiles"]
+        -->|"Conséquence"| S1["📉 Stérilisation de l'innovation & gâchis de capital"]
     end
 
-    subgraph CIT["Le Modèle du Financement Ouvert aux Particuliers"]
-        F2["Fonds Citoyen d'Innovation & Plateforme Décentralisée"] -->|"Audit Impartial & Détection de l'Étincelle Créative"| C2["Particuliers, Autodidactes, Passionnés & Visionnaires"]
-        C2 -->|"Validation par Jalons d'Exécution"| S2["Percées Technologiques Réelles, Artisanat & Utilité Commune"]
+    VC -->|"Rupture de Paradigme"| CIT
+
+    subgraph CIT["✅ Modèle du Financement Ouvert aux Particuliers"]
+        F2["🌐 Fonds Citoyen d'Innovation Décentralisé"]
+        -->|"Audit impartial & détection de l'étincelle créative"| C2["💡 Particuliers, autodidactes & artisans visionnaires"]
+        -->|"Validation par jalons d'exécution"| S2["🚀 Percées concrètes, artisanat & utilité commune"]
     end
 ```
 

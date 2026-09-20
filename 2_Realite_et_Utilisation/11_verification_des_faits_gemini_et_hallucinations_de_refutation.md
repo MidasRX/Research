@@ -26,15 +26,18 @@ Le cerveau biologique de l'humain moderne est soumis à une agression cognitive 
 
 ```mermaid
 flowchart TD
-    subgraph FLUX["Le Piège du Flux Viral Non Filtré"]
-        TK["Vidéo ou Capture TikTok Sensationnaliste"] -->|"Biais de Confirmation & Émotion Brute"| H["Cerveau Humain Saturé"]
-        H -->|"Partage Automatique sans Audit"| POL["Polarisation & Prolifération de Fausses Rumeurs"]
+    subgraph FLUX["❌ Le Piège du Flux Viral Non Filtré"]
+        TK["📱 Vidéo ou Capture Sensationnaliste"]
+        -->|"Biais de confirmation & émotion brute"| H["🧠 Cerveau Humain Saturé"]
+        -->|"Partage automatique sans vérification"| POL["📢 Polarisation & Prolifération de Fausses Rumeurs"]
     end
 
-    subgraph PROTOCOLE["Le Réflexe d'Hygiène avec l'IA (Copilote Épistémique)"]
-        TK -->|"Capture ou Transcription Soumise à Gemini / LLM"| AI["IA Connectée aux Sources Primaires & Grounding"]
-        AI -->|"Croisement d'Archives & Chronologie Réelle"| DEC["Décomposition Analytique des Faits"]
-        DEC -->|"Vérité Établie avec Nuances"| CIT["Citoyen Éclairé & Immunisé"]
+    FLUX -->|"Rupture d'Hygiène Cognitive"| PROTOCOLE
+
+    subgraph PROTOCOLE["✅ Le Réflexe d'Hygiène avec l'IA (Copilote de Vérité)"]
+        AI["🔍 Gemini & IA Connectée aux Sources Primaires"]
+        -->|"Croisement des archives & chronologie réelle"| DEC["⚖️ Décomposition Analytique des Faits"]
+        -->|"Vérité établie avec ses nuances"| CIT["🛡️ Citoyen Éclairé & Immunisé"]
     end
 ```
 

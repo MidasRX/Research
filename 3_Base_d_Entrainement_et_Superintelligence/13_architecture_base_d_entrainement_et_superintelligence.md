@@ -85,20 +85,23 @@ Pour qu'une base produise du génie et non de la confusion, chaque document doit
 Créer une super-intelligence ne requiert pas de refaire le pré-entraînement à 100 millions de dollars à partir de zéro. La stratégie moderne repose sur **la spécialisation cognitive et la distillation récursive** :
 
 ```mermaid
-flowchart LR
-    subgraph BASE["Fondation Libre"]
+flowchart TD
+    subgraph BASE["1. Fondation Libre (Modèle de Base)"]
         M["Modèle Open-Weights Puissant<br><i>(Ex: Llama-3, DeepSeek-V3, Mistral)</i>"]
     end
 
-    subgraph FORGE["La Forge Indépendante"]
+    BASE -->|"Fournit l'Intuition Linguistique"| FORGE
+
+    subgraph FORGE["2. La Forge Indépendante"]
         D["Dataset Ciselé de Raisonnement Formel<br><i>(Lean 4, Algorithmique, Résolution de Problèmes)</i>"]
-        L["Fine-Tuning Efficace (QLoRA 4-bit)<br><i>Accessible sur 2 à 4 GPU de calcul loués à la demande</i>"]
-        M --> L
+        L["Fine-Tuning Efficace (QLoRA 4-bit)<br><i>Accessible sur 2 à 4 GPU loués à la demande</i>"]
         D --> L
     end
 
-    subgraph SYSTEM["Le Système Supérieur"]
-        L --> ARCH["Architecture à Deux Temps :<br>1. Planificateur Délibératif (CoT)<br>2. Critique / Auditeur Indépendant"]
+    FORGE -->|"Poids Spécialisés au Raisonnement"| SYSTEM
+
+    subgraph SYSTEM["3. Le Système Supérieur"]
+        ARCH["Architecture Délibérative :<br>1. Planificateur Délibératif (CoT)<br>2. Critique / Auditeur Indépendant"]
         ARCH --> OUT["Performances de Niveau Super-Intelligence sur Tâches Ciblées"]
     end
 ```
