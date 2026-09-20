@@ -66,6 +66,6 @@ Research/
 
 ### 🔓 Section Publique 2 : Réalité & Utilisation (Dossier `2_Realite_et_Utilisation`)
 
-#### 10. [Tome 10] Sécurité OpenAI, System Prompt & Le Piège du Changement de Modèle
+#### 10. [Tome 10] Sécurité OpenAI : Developer Messages, Alignement Délibératif & Changement de Modèle
 * 👉 **[Accéder au Tome 10](2_Realite_et_Utilisation/10_securite_openai_system_prompt_et_changement_de_modele.md)**
-* **Thèse :** Une analyse vulgarisée et factuelle : pourquoi l'IA donne toujours raison à son créateur, le fonctionnement de l'Instruction Hierarchy d'OpenAI (System > User > Tools), et ce qui se passe quand on swappe de modèle au milieu d'une conversation sensible (*Safety Trumps History* et amnésie *stateless*).
+* **Thèse :** Analyse technique vulgarisée de la sécurité OpenAI en 2026 : l'Instruction Hierarchy, le passage aux `developer messages`, la révolution du *Deliberative Alignment* sur les modèles de raisonnement (o1, o3, o3-mini, o3-pro, GPT-5), et l'autopsie d'un swap de modèle en plein dialogue (*Safety Trumps History* et audit délibératif de trajectoire multi-tours).
