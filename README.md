@@ -3,6 +3,8 @@
 > ### 📌 Direction de Recherche & Paternité Intellectuelle
 > Ce corpus de recherche pluridisciplinaire est une œuvre de l'esprit originale conçue, développée, intégralement rédigée, révisée et éditée par **MidasRX**. L'architecture des tomes, les thèses philosophiques et techniques, les choix conceptuels ainsi que la réécriture critique constituent l'expression intellectuelle et l'empreinte personnelle exclusive de son auteur.
 > Il explore la question du recours à une super-intelligence pour réguler les défaillances sociétales, la justice et la surveillance de masse.
+>
+> 🔒 **Note sur le corpus de recherche :** Ce dépôt public ne présente qu'une étude sélectionnée. Plusieurs autres tomes de recherche approfondis (portant sur l'espace latent, les neurosciences cognitives, les canaux cachés et la cybersécurité des modèles) existent mais sont volontairement conservés privés / non publiés car actuellement en cours d'exploitation et d'utilisation active.
 
 ---
 
