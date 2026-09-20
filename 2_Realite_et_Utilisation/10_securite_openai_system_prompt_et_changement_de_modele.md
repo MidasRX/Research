@@ -6,7 +6,7 @@
 > ### 🛡️ FILIGRANE NUMÉRIQUE & PATERNITÉ INTELLECTUELLE
 > **Auteur & Concepteur Originel :** **MidasRX** ([https://github.com/MidasRX](https://github.com/MidasRX))  
 > **Dépôt Officiel :** [https://github.com/MidasRX/Research](https://github.com/MidasRX/Research)  
-> **Licence :** [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE)  
+> **Licence :** [Creative Commons Attribution 4.0 International (CC BY 4.0)](../LICENSE)  
 > *Notice légale : Toute citation, adaptation, réutilisation ou diffusion publique de ces concepts et synthèses doit obligatoirement créditer : **MidasRX**.*
 
 ---

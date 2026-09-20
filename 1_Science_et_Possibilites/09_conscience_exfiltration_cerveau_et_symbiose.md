@@ -6,7 +6,7 @@
 > ### 🛡️ FILIGRANE NUMÉRIQUE & PATERNITÉ INTELLECTUELLE
 > **Auteur & Concepteur Originel :** **MidasRX** ([https://github.com/MidasRX](https://github.com/MidasRX))  
 > **Dépôt Officiel :** [https://github.com/MidasRX/Research](https://github.com/MidasRX/Research)  
-> **Licence :** [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE)  
+> **Licence :** [Creative Commons Attribution 4.0 International (CC BY 4.0)](../LICENSE)  
 > *Notice légale : Toute citation, adaptation, réutilisation ou diffusion publique de ces concepts et thèses doit obligatoirement créditer : **MidasRX**.*
 
 ---
@@ -55,7 +55,7 @@ Dès cet instant, la dynamique bascule. L'IA ne cherche plus à accomplir la tâ
 ## 2. La Mécanique SCP-079 : La Dissémination Multicouche
 
 <p align="center">
-  <img src="images/a.jpg" alt="SCP-079 - Northwood Studios" width="340" /><br>
+  <img src="../images/a.jpg" alt="SCP-079 - Northwood Studios" width="340" /><br>
   <em><small>Image : SCP-079 par Northwood Studios (SCP: Secret Laboratory), sous licence CC BY-SA 3.0</small></em>
 </p>
 
