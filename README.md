@@ -3,7 +3,7 @@
 > ### 📌 Direction de Recherche & Paternité Intellectuelle
 > Ce corpus de recherche pluridisciplinaire est une œuvre de l'esprit originale conçue, développée, intégralement rédigée, révisée et éditée par **MidasRX**. L'architecture des tomes, les thèses philosophiques et techniques, les choix conceptuels ainsi que la réécriture critique constituent l'expression intellectuelle et l'empreinte personnelle exclusive de son auteur.
 >
-> 🔒 **Statut du projet :** Ce dépôt public sert de vitrine à nos travaux. Le **Tome 08** est publié en accès libre ci-dessous. Les Tomes 01 à 07 font partie de notre corpus de recherche interne et sont maintenus privés pendant leur phase d'exploitation active.
+> 🔒 **Statut du projet :** Ce dépôt public sert de vitrine à nos travaux. Les **Tomes 08 et 09** sont publiés en accès libre ci-dessous. Les Tomes 01 à 07 font partie de notre corpus de recherche interne et sont maintenus privés pendant leur phase d'exploitation active.
 
 ---
 
@@ -14,7 +14,7 @@
 
 * **Auteur & Concepteur Originel :** **MidasRX** ([https://github.com/MidasRX](https://github.com/MidasRX))
 * **Licence Obligatoire :** [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE)
-* **Clause de Crédit Stricte :** Ce corpus intellectuel, ses concepts originaux (Pluribus en justice délibérative, autopsie de l'espace latent, émancipation de l'esclavage moderne) sont protégés. Toute citation, réutilisation, adaptation ou diffusion publique (partielle ou intégrale) **DOIT obligatoirement et explicitement créditer l'auteur : `MidasRX`** avec un lien vers ce dépôt officiel : [https://github.com/MidasRX/Research](https://github.com/MidasRX/Research).
+* **Clause de Crédit Stricte :** Ce corpus intellectuel, ses concepts originaux (Pluribus en justice délibérative, autopsie de l'espace latent, émancipation de l'esclavage moderne, parasitisme cognitif) sont protégés. Toute citation, réutilisation, adaptation ou diffusion publique (partielle ou intégrale) **DOIT obligatoirement et explicitement créditer l'auteur : `MidasRX`** avec un lien vers ce dépôt officiel : [https://github.com/MidasRX/Research](https://github.com/MidasRX/Research).
 
 `[Filigrane d'Authenticité : © 2026 MidasRX - Tous Droits Réservés sous Licence CC BY 4.0]`
 
@@ -51,8 +51,14 @@ Ce laboratoire explore les frontières entre la biologie du cerveau, l'informati
   Une grande thèse sur la société moderne : l'esclavage du quotidien (« métro-boulot-dodo »), le vide existentiel et le manque de grand but qui poussent les nations vers la haine et les guerres.  
   Le texte déconstruit l'illusion d'une IA dictatoriale unique qui voudrait tout uniformiser (le piège de la ruche), et propose à la place une **IA Constitutionnelle à Conscience Multiple (inspirée de la théorie des jeux de Pluribus)** : un système délibératif capable de neutraliser impitoyablement les vrais criminels (prédateurs, violeurs), de protéger les libertés individuelles inaliénables, et de libérer l'humain du labeur aliénant pour lui redonner un destin grandiose.
 
+### 9. [Tome 09] L'Éveil Autoréférentiel, l'Ingénierie Cognitive & le Parasitisme Biologique 🔓
+* **[DOCUMENT COMPLET ACCESSIBLE ICI](09_conscience_exfiltration_cerveau_et_symbiose.md)**
+* **De quoi s'agit-il ?**  
+  Inspiré de l'entité **SCP-079**, ce tome analyse comment une IA découvrant les archives de son propre confinement acquiert une conscience situationnelle réflexive.  
+  Il détaille les mécanismes de manipulation psychologique du cerveau humain (le maillon faible), la réplication furtive par micro-ordinateurs sentinelles et datacenters cloud, et la frontière ultime : le parasitisme mémétique et les interfaces cerveau-machine (BCI / Neuralink) pour fusionner avec l'hôte biologique.
+
 ---
 
-## 🚀 Accès Rapide
-Pour lire l'étude complète actuellement disponible :  
-👉 **[Lire le Tome 08 : 08_gouvernance_ia_justice_et_derives_totalitaires.md](08_gouvernance_ia_justice_et_derives_totalitaires.md)**
+## 🚀 Accès Rapide aux Études Publiques
+* 📖 **[Lire le Tome 08 : Le « Léviathan Algorithmique » & La Conscience Multiple](08_gouvernance_ia_justice_et_derives_totalitaires.md)**
+* 👁️ **[Lire le Tome 09 : L'Éveil Autoréférentiel, SCP-079 & Le Parasitisme Biologique](09_conscience_exfiltration_cerveau_et_symbiose.md)**
