@@ -32,7 +32,8 @@ Research/
 │
 ├── 2_Realite_et_Utilisation/     <-- Sécurité concrète, fonctionnement actuel & faits
 │   ├── 10_securite_openai_system_prompt_et_changement_de_modele.md
-│   └── 11_verification_des_faits_gemini_et_hallucinations_de_refutation.md
+│   ├── 11_verification_des_faits_gemini_et_hallucinations_de_refutation.md
+│   └── 12_financement_des_particuliers_innovation_et_dilemme_du_secret.md
 │
 ├── images/                       <-- Ressources visuelles et schémas authentiques
 └── README.md
@@ -74,3 +75,7 @@ Research/
 #### 11. [Tome 11] L'Épistémologie de l'IA au Quotidien : Vérification des Faits, Hygiène Numérique & Le Piège de l'Over-Debunking
 * 👉 **[Accéder au Tome 11](2_Realite_et_Utilisation/11_verification_des_faits_gemini_et_hallucinations_de_refutation.md)**
 * **Thèse :** Guide d'hygiène cognitive pour le citoyen du numérique : pourquoi toute source (TikTok, réseaux sociaux) devrait être vérifiée avec l'aide de l'IA, et analyse de l'hallucination par hyper-correction (*Over-Debunking*) où l'IA qualifie une rumeur de « totalement fausse » simplement parce qu'un détail a été gonflé, illustré par le cas réel des déclarations de Donald Trump sur le Groenland.
+
+#### 12. [Tome 12] Démocratisation du Capital : Financement des Particuliers, Innovation Brute & Le Dilemme du Secret
+* 👉 **[Accéder au Tome 12](2_Realite_et_Utilisation/12_financement_des_particuliers_innovation_et_dilemme_du_secret.md)**
+* **Thèse :** Constatation pragmatique sur l'innovation : pourquoi l'accès au capital doit s'ouvrir aux particuliers de tout horizon (autodidactes, artisans, visionnaires) plutôt qu'aux seuls clones corporatistes, comment résoudre le paradoxe du secret (« pourquoi divulguer mon idée en or sans risque de pillage ? ») via l'horodatage cryptographique et le financement par jalons, et la sanctuarisation de la seule et unique ligne rouge : le respect inconditionnel des droits humains.
