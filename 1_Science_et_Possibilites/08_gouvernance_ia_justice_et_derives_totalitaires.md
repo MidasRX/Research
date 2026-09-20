@@ -59,10 +59,15 @@ Ce scénario a été exploré par les plus grands penseurs du XXe siècle :
 * Dans ***Le Meilleur des Mondes* d'Aldous Huxley**, l'État mondial conditionne les fœtus pour qu'ils aient tous exactement les mêmes désirs, les mêmes loisirs et les mêmes goûts. Le conflit a disparu, mais la liberté, l'art, la poésie et l'amour véritable ont été anéantis.
 * Dans ***1984* de George Orwell**, le Parti unique impose une idéologie unique et crée la « Ligue Anti-Sexe » pour standardiser et contrôler les pulsions et les pensées intimes de chaque citoyen.
 
-### C. La Ligne Rouge : La Définition du Crime
-La justice ne doit jamais confondre **la différence** et **le dommage** :
-* **Le Crime véritable (viol, pédocriminalité, agression) :** Il détruit violemment le consentement, cause une souffrance réelle et une victime directe. Il doit être traqué et puni sans faiblesse.
-* **L'Orientation et la Pensée :** Deux adultes consentants qui s'aiment ou qui débattent d'idées ne font de mal à personne. Vouloir formater leurs désirs ou leurs opinions pour les faire rentrer dans une norme unique relève de l'eugénisme mental.
+### C. La Ligne Rouge : La Définition du Crime, l'Atteinte aux Biens (Le Vol) vs l'Atteinte Inviolable à la Personne
+La justice ne doit jamais confondre **la différence d'opinion**, **l'atteinte aux biens matériels** et **le dommage irréversible à la chair humaine** :
+* **L'Hypocrisie Judiciaire Actuelle : Le Vol vs Le Crime Corporel :**  
+  Dans nos sociétés actuelles, il existe une profonde anomalie morale : la loi protège parfois la propriété privée des banques et des multinationales avec plus d'acharnement que l'intégrité physique des citoyens. Certains délits de vol de biens matériels sont traqués et punis avec une sévérité démesurée, parfois perçus ou sanctionnés plus durement que des agressions corporelles ou des viols négligés par l'appareil judiciaire.  
+  Or, dans la réalité sociale, une part importante du **vol découle de la précarité, de la dépendance économique ou d'une logique de survie / débrouille** dans un système qui broie les plus vulnérables. Beaucoup de ceux qui s'y trouvent contraints ne sont pas de mauvaises personnes : ils exercent un palliatif de subsistance face à l'exclusion.
+* **La Frontière Absolue : L'Atteinte au Consentement et à la Vie :**  
+  À l'opposé des biens matériels (qui peuvent être compensés, restitués ou assurés), les crimes de prédation physique (**viol, agression corporelle, meurtre, pédocriminalité**) détruisent violemment et irrémédiablement le consentement et la dignité humaine. Il n'existe aucune justification économique ou existentielle à la violence sur autrui. La super-intelligence doit neutraliser cette prédation corporelle sans aucune pitié, tout en traitant les délits matériels de subsistance par la résolution économique de la précarité.
+* **L'Orientation et la Pensée :**  
+  Deux adultes consentants qui s'aiment ou débattent librement ne causent aucun tort. Vouloir standardiser leurs désirs ou leurs opinions relève de la tyrannie.
 
 ---
 
@@ -109,6 +114,15 @@ Le rôle d'une super-intelligence ne doit surtout pas être de faire de nous des
    * L'éradication des maladies et le recul du vieillissement.
    * La régénération de la biosphère et la dépollution totale de la Terre.
    * La conquête de la physique fondamentale et l'exploration du cosmos.
+
+### C. La Neurochimie de l'Adrénaline : Le Piège de l'Inaction Post-Travail
+Le plus grand défi d'une société où l'IA assure l'abondance matérielle et prend en charge les corvées économiques n'est pas financier : **il est existentiel et neurobiologique**.
+* **Sans but et sans lutte, l'humain s'effondre :**  
+  Si l'IA automatise tout sans redéfinir le sens de la vie, le piège est immédiat : **privé d'obligation et de but, l'être humain ne fait plus rien**. Le cerveau biologique, façonné par des millions d'années d'épreuves et de survie, n'est pas conçu pour une léthargie passive.
+* **Le Besoin Viscéral d'Adrénaline & La Dérive Transgressive :**  
+  L'organisme humain possède un besoin neurochimique d'intensité, de tension et de décharges d'adrénaline. Lorsqu'un individu n'a aucun défi noble ou constructif à relever, ce besoin d'adrénaline ne s'éteint pas : **il dévie vers la transgression brute, la délinquance, les conduites à risque et la violence**.
+* **Canaliser l'Adrénaline vers l'Élévation Héroïque :**  
+  L'IA ne doit surtout pas anesthésier l'humanité dans un confort mou d'animaux domestiqués. Sa mission consiste à **créer et proposer des défis grandioses à la hauteur de l'énergie humaine** : sports extrêmes, explorations spatiales pionnières, chantiers d'ingénierie titanesques et conquêtes scientifiques où l'humain peut risquer, se dépasser, ressentir l'adrénaline pure du triomphe et retrouver la fierté d'exister sans jamais transformer autrui en proie.
 
 ---
 
@@ -171,9 +185,15 @@ flowchart TD
     G3 -->|"Convergence Dynamique"| PAIX
 ```
 
-### D. Pourquoi Pluribus est la Référence ?
-* **Pluribus** n'a pas gagné contre les meilleurs joueurs du monde en les forçant à jouer de la même manière. Il a calculé un **équilibre de Nash** : un point d'harmonie mathématique où chaque stratégie divergente peut exister de manière optimale sans déstabiliser l'ensemble du jeu.
-* Appliqué à notre civilisation : guidée par la Constitution édictée par les esprits éclairés, la super-intelligence ne formate pas les êtres humains pour qu'ils deviennent des clones, mais **sécurise les règles du jeu social**, libère les corps de l'exploitation économique et laisse les esprits libres de chercher leur propre accomplissement.
+### D. Qu'est-ce que Pluribus ? (Genèse Technique & Métaphore de Gouvernance)
+* **L'Exploit Historique de Pluribus (Brown & Sandholm, Carnegie Mellon / Meta, 2019) :**  
+  **Pluribus** est l'intelligence artificielle qui est entrée dans l'histoire pour avoir battu les plus grands champions du monde au poker *Texas Hold'em No-Limit* à **6 joueurs** lors de milliers de mains réelles.
+* **Pourquoi est-ce une Révolution Mathématique ?**  
+  Avant Pluribus, les victoires d'IA (Deep Blue aux échecs, AlphaGo au jeu de go) se limitaient à des jeux à 2 joueurs, à information parfaite et à somme nulle. Le monde réel (et le poker à 6) est un univers à **information imparfaite** (cartes cachées, bluff, imprévisibilité, intérêts divergents). À plus de 2 joueurs, calculer un équilibre parfait est mathématiquement intraitable (*NP-hard*).
+* **Comment Pluribus a triomphé sans forcer la table :**  
+  Pluribus n'a pas gagné en dictant aux humains comment jouer. Par auto-apprentissage (*self-play*) sans données humaines et recherche en temps réel, il a calculé un **équilibre de Nash dynamique** : une stratégie optimale où chaque joueur peut adopter un style différent (prudent, agressif, audacieux) sans qu'aucune déviation ne puisse déstabiliser l'harmonie globale de la partie.
+* **Transposition à la Gouvernance Délibérative par IA :**  
+  Une société humaine est une immense table à information imparfaite. Certains ont besoin de sécurité, d'autres d'adrénaline et de défis extrêmes. L'IA inspirée de Pluribus ne cherche pas à mouler tout le monde dans une tyrannie uniforme : elle **sécurise les règles du jeu social**, sanctuarise le respect inviolable de la vie humaine et calcule le point d'équilibre où la liberté de chacun peut rayonner sans que personne ne devienne la proie d'autrui.
 
 ---
 
