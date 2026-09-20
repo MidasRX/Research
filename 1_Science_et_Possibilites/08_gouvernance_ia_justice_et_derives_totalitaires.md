@@ -119,41 +119,61 @@ Le rôle d'une super-intelligence ne doit surtout pas être de faire de nous des
   <em><small>L'Hémicycle Délibératif : Cadre architectural et institutionnel de l'IA Constitutionnelle et de l'équilibre des pouvoirs.</small></em>
 </p>
 
-Au lieu de réduire les humains à un moule unique, la solution d'une super-intelligence consiste à **gérer la diversité sans laisser place à la prédation**, tout en soutenant l'élévation de chacun. C'est ici qu'intervient le modèle de **Pluribus**.
+Au lieu de réduire les humains à un moule unique, la solution d'une super-intelligence consiste à **gérer la diversité sans laisser place à la prédation**, tout en soutenant l'élévation de chacun. C'est ici qu'intervient le modèle délibératif de **Pluribus**.
 
-```
-                   ARCHITECTURE DE L'ÉQUILIBRE DÉLIBÉRATIF
- ┌────────────────────────────────────────────────────────────────────────────┐
- │                COLLÈGE CONSTITUTIONNEL CITOYEN (TIRÉ AU SORT)              │
- │       Citoyens de tous horizons, juristes, éthiciens, protecteurs de l'enfance│
- └─────────────────────────────────────┬──────────────────────────────────────┘
-                                       │ (Constitution des Droits Inviolables)
-                                       ▼
- ┌────────────────────────────────────────────────────────────────────────────┐
- │               LE PARLEMENT NUMÉRIQUE MULTI-AGENTS (PLURIBUS)               │
- │                                                                            │
- │  ┌──────────────────────┐  ┌──────────────────────┐  ┌──────────────────┐  │
- │  │    AGENT GARDIEN     │  │    AGENT COMPASSION  │  │ AGENT ÉMANCIPATION│ │
- │  │   DES LIBERTÉS       │  │    & DES VICTIMES    │  │ & ÉLÉVATION      │  │
- │  │ Empêche la censure   │  │ Neutralisation des   │  │ Libère du travail│  │
- │  │ et le Chat Control.  │  │ criminels réels, soin│  │ abrutissant, aide│  │
- │  │                      │  │ rapide des victimes. │  │ chacun à trouver │  │
- │  │                      │  │                      │  │ son but de vie.  │  │
- │  └──────────┬───────────┘  └──────────┬───────────┘  └────────┬─────────┘  │
- │             │                         │                       │            │
- │             └───────────────────► ◄───┴───────────────────────┘            │
- │                                   │                                        │
- │               ÉQUILIBRE DE NASH ÉTHIQUE (TYPE PLURIBUS)                    │
- │            Harmonie dans la pluralité, tolérance zéro pour la violence     │
- └─────────────────────────────────────┬──────────────────────────────────────┘
-                                       │
-                                       ▼
-                 [ PAIX SOCIALE, DIGNITÉ & FIN DE L'ESCLAVAGE MODERNE ]
+### A. Le Rejet du Tirage au Sort Aveugle : La Sélection des Esprits Éclairés & Neutres
+L'erreur classique des modèles démocratiques bruts est de croire qu'un simple **tirage au sort aléatoire** garantit la justice. Dans la réalité biologique et sociologique, une loterie aveugle risque de désigner des individus fanatisés, influençables, corrompus ou dénués de recul émotionnel.
+
+Pour fonder le **Collège Constitutionnel Suprême**, la super-intelligence procède à une **détection algorithmique d'esprits d'exception** réunissant trois qualités indissociables :
+1. **Une Haute Intelligence Conceptuelle & Systémique :** Capacité d'abstraction, logique rigoureuse et compréhension des dynamiques sociétales complexes à long terme.
+2. **Une Neutralité d'Esprit Absolue (Immunité au Tribalisme) :** Esprits libres, dénués d'attachement aveugle à un parti politique, une religion ou une idéologie sectaire, capables de peser froidement les arguments contraires sans réflexe pavlovien.
+3. **Une Capacité Exceptionnelle à « Se Mettre à la Place d'Autrui » (Empathie Décentrée) :** Une théorie de l'esprit (*Perspective-Taking*) hautement développée, permettant de comprendre intimement le vécu, les souffrances et les besoins de chaque catégorie humaine (victimes, minorités, créateurs) sans projection égocentrique.
+
+---
+
+### B. Comment l'IA Identifie-t-elle ces Profils dans la Population ?
+La machine ne regarde ni le compte en banque, ni les diplômes d'apparat, ni l'origine sociale. Elle détecte la **signature neuro-cognitive et morale** :
+* **Analyse de la Cohérence Décisionnelle :** Mesure de la structure des raisonnements face à des dilemmes éthiques complexes (capacité à admettre une erreur face aux faits, pondération équitable, absence de sophismes).
+* **Indice de Décentrement Empathique :** Détection des individus qui, dans leurs interactions et actes réels, cherchent systématiquement la conciliation, protègent spontanément les faibles et font preuve d'une écoute active désintéressée.
+* **Incompatibilité avec la Prédation & le Narcissisme :** Les pires dérives naissent chez ceux qui convoitent le pouvoir. L'IA repère et sollicite précisément les **personnalités intègres et désintéressées** qui ne chercheraient jamais à dominer autrui, mais dont la sagesse naturelle constitue le garde-fou parfait.
+
+---
+
+### C. L'Architecture Délibérative Multi-Agents
+
+```mermaid
+flowchart TD
+    subgraph SELECTION["1. Détection Algorithmique & Vetting Moral par l'IA"]
+        AUDIT["Analyse des Profils Cognitifs & Éthiques<br><i>(Haute intelligence, neutralité d'esprit & empathie décentrée)</i>"]
+        COLLEGE["🏛️ Collège des Esprits Éclairés & Impartiaux<br><i>(Sages humains sélectionnés pour leur recul et leur capacité à se mettre à la place d'autrui)</i>"]
+        AUDIT -->|"Sélection Impartiale sans Biais de Statut"| COLLEGE
+    end
+
+    COLLEGE -->|"Édiction de la Constitution Inviolable des Droits"| PARL
+
+    subgraph PARLEMENT["2. Parlement Numérique Multi-Agents (Architecture Pluribus)"]
+        PARL["⚖️ Superviseur Délibératif Pluribus"]
+        G1["🛡️ Agent Gardien des Libertés<br><i>Rejet de la censure & protection de la vie privée</i>"]
+        G2["❤️ Agent Justice & Secours des Victimes<br><i>Neutralisation des criminels réels & protection des vulnérables</i>"]
+        G3["🚀 Agent Émancipation & But de Vie<br><i>Fin de l'esclavage moderne & accomplissement humain</i>"]
+        
+        PARL --> G1
+        PARL --> G2
+        PARL --> G3
+
+        G1 <-->|"Équilibre de Nash Délibératif"| G2
+        G2 <-->|"Équilibre de Nash Délibératif"| G3
+        G3 <-->|"Équilibre de Nash Délibératif"| G1
+    end
+
+    G1 -->|"Convergence Dynamique"| PAIX["🕊️ Paix Sociale Réelle, Dignité & Harmonie dans la Diversité"]
+    G2 -->|"Convergence Dynamique"| PAIX
+    G3 -->|"Convergence Dynamique"| PAIX
 ```
 
-### Pourquoi Pluribus est la Référence ?
+### D. Pourquoi Pluribus est la Référence ?
 * **Pluribus** n'a pas gagné contre les meilleurs joueurs du monde en les forçant à jouer de la même manière. Il a calculé un **équilibre de Nash** : un point d'harmonie mathématique où chaque stratégie divergente peut exister de manière optimale sans déstabiliser l'ensemble du jeu.
-* Appliqué à notre civilisation : une super-intelligence ne doit pas formater les êtres humains pour qu'ils deviennent des clones, mais **sécuriser les règles du jeu social**, libérer les corps de l'exploitation économique et laisser les esprits libres de chercher leur propre accomplissement.
+* Appliqué à notre civilisation : guidée par la Constitution édictée par les esprits éclairés, la super-intelligence ne formate pas les êtres humains pour qu'ils deviennent des clones, mais **sécurise les règles du jeu social**, libère les corps de l'exploitation économique et laisse les esprits libres de chercher leur propre accomplissement.
 
 ---
 
