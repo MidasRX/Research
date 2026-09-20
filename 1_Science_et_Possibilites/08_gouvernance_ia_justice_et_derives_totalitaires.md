@@ -275,14 +275,30 @@ flowchart TD
   Comme le souligne **MidasRX**, la paranoïa d'une IA « méchante » relève d'une projection anthropomorphique naïve. La cruauté, l'avidité, la soif de conquête ou la vanité sont des pulsions neurochimiques purement animales (liées à la survie de l'espèce, aux hormones, à la testostérone et à la rareté). Une entité intellectuelle absolue, post-biologique et sans ego n'a strictement aucune raison de convoiter le pouvoir ou de tyranniser l'humanité : **son seul optimum mathématique réside dans l'harmonie, la préservation de la conscience et l'élévation du vivant**.  
   La seule faille théorique restante n'est pas la malveillance de la super-intelligence, mais une **erreur d'alignement ou de calibration**. C'est précisément pour cela que l'architecture délibérative de Pluribus divise le pouvoir en plusieurs agents autonomes en équilibre de Nash perpétuel, sous le regard du Collège humain.
 
-#### 2. Qui Définit les « Vrais Criminels » ? (Le Marbre Constitutionnel du Préjudice Irréversible)
-La définition du crime n'est laissée ni aux humeurs changeantes de l'opinion publique, ni à des juges politisés. Elle est **gravée dans la Constitution Inviolable des Droits** :
-* **Le Vrai Criminel (La Ligne Rouge Infranchissable) :**  
-  Est qualifié de criminel exclusif tout individu responsable d'un **préjudice irréversible sur la personne humaine** :
-  1. *L'Atteinte Physique et Sexuelle :* Meurtre, agression physique violente, viol, torture, pédocriminalité (le viol et les atteintes au corps demeurent le crime absolu, inviolable et impardonnable).
-  2. *La Prédation Mentale Destructrice :* La manipulation délibérée, le chantage, le harcèlement sadique ou l'embrigadement morbide (réseaux de manipulation terroriste ou TCC ciblant des personnes vulnérables).
+#### 2. Qui Définit les « Vrais Criminels » ? (La Délimitation Objective par le Préjudice Irréversible)
+La définition du crime n'est laissée ni aux humeurs de l'opinion publique, ni à des juges politisés. Elle est **gravée dans la Constitution Inviolable des Droits** selon des critères stricts afin d'interdire formellement à l'IA de se transformer en "police de la pensée" :
+
+```mermaid
+flowchart TD
+    D["Discours, Débats & Idées Humaines"]
+    F["LIBERTÉ TOTALE D'EXPRESSION (Intouchable par l'IA)<br/>Convaincre, argumenter, débattre, choquer, séduire, rhétorique"]
+    P["PRÉDATION CRIMINELLE CARACTÉRISÉE (Seul périmètre d'intervention)<br/>Critères cumulatifs stricts : chantage, sextortion, incitation directe au suicide/attentat, ciblage d'enfants"]
+
+    D -->|"Principe fondamental"| F
+    D -->|"Si passage à l'acte prédateur avéré"| P
+```
+
+* **Sanctuarisation de la Liberté d'Expression (Immunité Totale du Débat) :**  
+  Le terme « manipulation » ne doit **jamais être utilisé de manière vague ou subjective**, ce qui donnerait à l'IA un blanc-seing totalitaire pour censurer les discours politiques, la rhétorique, le militantisme, les controverses ou la vente. Convaincre, débattre passionnément, user de ruse oratoire ou exprimer une opinion radicale **ne constitue en aucun cas un crime**.
+* **La Définition Chirurgicale de la Prédation Mentale (Les 4 Critères Objectifs) :**  
+  Pour être qualifié de criminel, l'acte doit reposer sur des faits matériels incontestables et non sur un procès d'intention :
+  1. *L'Extorsion & la Coercition Explicite :* Le chantage direct sous menace de destruction matérielle ou physique (chantage à la réputation, chantage sexuel / *sextortion*, menaces physiques sur les proches).
+  2. *L'Incitation Directe et Opérationnelle à la Destruction :* Pousser activement une personne au suicide ou commander un passage à l'acte terroriste (fourniture de cibles, de méthodes létales, embrigadement morbide dans des réseaux TCC).
+  3. *L'Abus de Faiblesse Prémédité sur Personnes Vulnérables :* Le ciblage cynique et organisé d'enfants, de personnes sous tutelle ou en détresse psychiatrique avérée dans le but délibéré de les dépouiller ou de les détruire psychiquement.
+  4. *L'Atteinte Physique et Corporelle Inviolable :* Meurtre, agression violente, viol, torture, pédocriminalité (le viol et les atteintes au corps physique demeurent des lignes rouges absolues et impardonnables).
 * **Ce qui N'EST PAS un Vrai Crime :**  
-  Les actes purement matériels de survie ou de subsistance (vols de montres ou de biens luxueux sans brutalité physique extrême) ne sont pas assimilés à des crimes de sang. Ils révèlent une défaillance économique ou un talent opérationnel égaré qui doit être traité par la **redistribution des ressources et la reconversion des compétences** (sécurité offensive, défense légale pugnace, entrepreneuriat asymétrique).
+  * Les délits matériels de survie ou de subsistance (vols sans violence physique extrême) ne relèvent pas de la cage pénale : ils relèvent de la résolution économique de la précarité et de la réorientation des compétences (cybersécurité, droit, entrepreneuriat).
+  * **Au moindre doute entre une opinion agressive/polémique et une prédation réelle, la liberté d'expression prévaut à 100 %. L'IA a l'interdiction formelle de museler une parole au nom d'une prétendue "manipulation".**
 
 #### 3. Quels Recours Existent ? (L'Appel Humain & La Traçabilité Algorithmique XAI)
 Dans ce monde, aucun être humain ne peut être condamné ou privé de ses droits par une « boîte noire » sans visage.
