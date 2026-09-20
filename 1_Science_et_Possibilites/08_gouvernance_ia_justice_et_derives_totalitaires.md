@@ -114,6 +114,11 @@ Le rôle d'une super-intelligence ne doit surtout pas être de faire de nous des
 
 ## 4. L'Alternative d'Ingénierie : L'IA Délibérative (Modèle Pluribus)
 
+<p align="center">
+  <img src="../images/c.png" alt="Chambre Délibérative Constitutionnelle" width="550" /><br>
+  <em><small>L'Hémicycle Délibératif : Cadre architectural et institutionnel de l'IA Constitutionnelle et de l'équilibre des pouvoirs.</small></em>
+</p>
+
 Au lieu de réduire les humains à un moule unique, la solution d'une super-intelligence consiste à **gérer la diversité sans laisser place à la prédation**, tout en soutenant l'élévation de chacun. C'est ici qu'intervient le modèle de **Pluribus**.
 
 ```
