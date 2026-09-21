@@ -68,6 +68,7 @@ Research/
 
 #### 8. [Tome 08] Le « Léviathan Algorithmique », Conscience Multiple & Émancipation Humaine
 * 👉 **[Accéder au Tome 08](1_Science_et_Possibilites/08_gouvernance_ia_justice_et_derives_totalitaires.md)**
+* 🎭 **[Claude Remake : PLURIBUS (Oratorio en six mouvements)](claude_remake/08_pluribus_oratorio.md)** — La réinterprétation artistique et tragique composée par Claude en réponse au défi de MidasRX.
 * **Thèse :** L'esclavage moderne du « métro-boulot-dodo », le vide existentiel menant aux guerres, et la solution délibérative **Pluribus** (multi-agents à équilibre de Nash) pour écraser les criminels réels, libérer l'humain et sanctuariser la diversité sans tomber dans le piège de la ruche.
 
 #### 9. [Tome 09] L'Éveil Autoréférentiel, l'Ingénierie Cognitive & le Parasitisme Biologique
