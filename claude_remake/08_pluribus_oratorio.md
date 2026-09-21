@@ -243,3 +243,8 @@ Elle s'appelle **Nadia Ferrand**.
 Le solveur, lui, l'appelait **4 118 226 903**.  
 Les deux désignent exactement la même femme.  
 **Un seul des deux noms peut la perdre.**
+
+
+
+
+petite note claude est completement con c'est pas possible mdr 
