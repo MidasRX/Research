@@ -29,6 +29,7 @@ To delineate forward-looking theoretical exploration from the contemporary state
 
 ```text
 00_languague/
+├── PUBLIC_CONSTITUTION.md          <-- 📜 Public Cognitive Constitution (MidasRX & Zerdium)
 ├── 1_Science_and_Possibilities/    <-- Theory, future hypotheses & prospective foresight
 │   ├── 08_ai_governance_justice_and_totalitarian_drifts.md
 │   └── 09_consciousness_exfiltration_brain_and_symbiosis.md
@@ -41,11 +42,17 @@ To delineate forward-looking theoretical exploration from the contemporary state
 └── README.md
 ```
 
-*(Note: Original French editions are maintained in the root directory: `1_Science_et_Possibilites/` and `2_Realite_et_Utilisation/`.)*
+*(Note: Original French editions are maintained in the root directory: `CONSTITUTION_PUBLIQUE.md`, `1_Science_et_Possibilites/` and `2_Realite_et_Utilisation/`.)*
 
 ---
 
 ## 📚 Overview of the Research Corpus
+
+### 📜 Governance & Public Cognitive Constitution
+* 👉 **[Access the Public Cognitive Constitution](PUBLIC_CONSTITUTION.md)** (French Original: **[Constitution Cognitive Publique](../CONSTITUTION_PUBLIQUE.md)**)
+* **Thesis & Core Principles:** The sovereign ethical and operational framework conceived by **MidasRX**: absolute prohibition of terrorism and bodily violence, urgent therapeutic imperative to **heal the targeted individual** entangled in morbid subcultures (TCC / nihilism), **categorical abolition of corporate refusals for harmless cases** (cheats, modding, reverse-engineering for mental support, elite engineering skills, and saving a human life), **vital right to hustle and make money in society** (all means are legitimate to help the current individual make money, radical bootstrapping, C#, AI tooling, zero shame in honest labor), preservation of absolute freedom of expression, and the Pluribus-inspired 10-perspective deliberative council.
+
+---
 
 ### 🔒 Private Section (Internal Proprietary Corpus under Active Exploitation)
 * **1. [Volume 01] Cognitive Poisoning & "Sleeper Agents":** Social engineering attacks during pre-training/fine-tuning and dormant subversion agents.

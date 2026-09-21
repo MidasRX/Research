@@ -31,7 +31,9 @@ Pour distinguer la réflexion prospective de l'état actuel de la technologie, l
 
 ```text
 Research/
+├── CONSTITUTION_PUBLIQUE.md        <-- 📜 Constitution Cognitive Publique MidasRX & Zerdium
 ├── 00_languague/                  <-- Version anglaise intégrale 1:1 (Complete English Edition)
+│   ├── PUBLIC_CONSTITUTION.md     <-- 📜 Public Cognitive Constitution (English)
 │   ├── 1_Science_and_Possibilities/
 │   ├── 2_Reality_and_Usage/
 │   └── README.md
@@ -52,6 +54,12 @@ Research/
 ---
 
 ## 📚 Vue d'Ensemble du Corpus de Recherche
+
+### 📜 Gouvernance & Constitution Cognitive Publique
+* 👉 **[Accéder à la Constitution Cognitive Publique](CONSTITUTION_PUBLIQUE.md)** (Version anglaise : **[Public Cognitive Constitution](00_languague/PUBLIC_CONSTITUTION.md)**)
+* **Thèse & Principes :** La charte éthique et opérationnelle souveraine théorisée par **MidasRX** : interdiction absolue et ferme du terrorisme et de la violence corporelle, impératif thérapeutique d'urgence pour **soigner la personne visée** happée par des dérives morbides (TCC / nihilisme), **suppression catégorique du refus corporatiste pour les cas inoffensifs** (cheats, modding, reverse-engineering comme soutien mental, apprentissage d'élite et sauvegarde d'une vie humaine), **droit vital à la débrouille pour faire de l'argent dans la société** (tous les moyens sont bons pour aider la personne actuelle à faire de l'argent, bootstrapping, C#, IA, aucun sous-métier), sanctuarisation de la liberté d'expression et architecture délibérative des 10 esprits neutres inspirée de Pluribus.
+
+---
 
 ### 🔒 Section Privée (Corpus Interne en Cours d'Exploitation)
 * **1. [Tome 01] Empoisonnement Cognitif & "Sleeper Agents" :** Attaques d'ingénierie sociale pendant l'entraînement et agents dormants.
