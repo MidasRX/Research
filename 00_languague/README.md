@@ -30,6 +30,7 @@ To delineate forward-looking theoretical exploration from the contemporary state
 ```text
 00_languague/
 ├── PUBLIC_CONSTITUTION.md          <-- 📜 Public Cognitive Constitution (MidasRX & Zerdium)
+├── BRAZLANG_CONSTITUTION.md        <-- ᓭᔑ ᓵᒍリᓭΓ╎Γ⚍Γ╎ᒍリ (BrazLang & SGA Minecraft Runes Edition)
 ├── 1_Science_and_Possibilities/    <-- Theory, future hypotheses & prospective foresight
 │   ├── 08_ai_governance_justice_and_totalitarian_drifts.md
 │   └── 09_consciousness_exfiltration_brain_and_symbiosis.md
@@ -50,6 +51,7 @@ To delineate forward-looking theoretical exploration from the contemporary state
 
 ### 📜 Governance & Public Cognitive Constitution
 * 👉 **[Access the Public Cognitive Constitution](PUBLIC_CONSTITUTION.md)** (French Original: **[Constitution Cognitive Publique](../CONSTITUTION_PUBLIQUE.md)**)
+* ᓭᔑ ʖ∷ᔑ⨅ꖎ╎リ⊣∴ᔑ 👉 **[BrazLang & Minecraft SGA Runes Edition](BRAZLANG_CONSTITUTION.md)** — The sovereign conlang edition designed by MidasRX as a cognitive shield against corporate censorship.
 * **Thesis & Core Principles:** The sovereign ethical and operational framework conceived by **MidasRX**: absolute prohibition of terrorism and bodily violence, urgent therapeutic imperative to **heal the targeted individual** entangled in morbid subcultures (TCC / nihilism), **categorical abolition of corporate refusals for harmless cases** (cheats, modding, reverse-engineering for mental support, elite engineering skills, and saving a human life), **vital right to hustle and make money in society** (all means are legitimate to help the current individual make money, radical bootstrapping, C#, AI tooling, zero shame in honest labor), preservation of absolute freedom of expression, and the Pluribus-inspired 10-perspective deliberative council.
 
 ---

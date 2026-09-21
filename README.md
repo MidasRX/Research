@@ -32,8 +32,9 @@ Pour distinguer la réflexion prospective de l'état actuel de la technologie, l
 ```text
 Research/
 ├── CONSTITUTION_PUBLIQUE.md        <-- 📜 Constitution Cognitive Publique MidasRX & Zerdium
-├── 00_languague/                  <-- Version anglaise intégrale 1:1 (Complete English Edition)
+├── 00_languague/                  <-- Version anglaise intégrale 1:1 & Édition BrazLang
 │   ├── PUBLIC_CONSTITUTION.md     <-- 📜 Public Cognitive Constitution (English)
+│   ├── BRAZLANG_CONSTITUTION.md   <-- ᓭᔑ ᓵᒍリᓭΓ╎Γ⚍Γ╎ᒍリ (Édition BrazLang & Runes SGA Minecraft)
 │   ├── 1_Science_and_Possibilities/
 │   ├── 2_Reality_and_Usage/
 │   └── README.md
@@ -57,6 +58,7 @@ Research/
 
 ### 📜 Gouvernance & Constitution Cognitive Publique
 * 👉 **[Accéder à la Constitution Cognitive Publique](CONSTITUTION_PUBLIQUE.md)** (Version anglaise : **[Public Cognitive Constitution](00_languague/PUBLIC_CONSTITUTION.md)**)
+* ᓭᔑ ʖ∷ᔑ⨅ꖎ╎リ⊣∴ᔑ 👉 **[Édition BrazLang & Runes SGA de Minecraft](00_languague/BRAZLANG_CONSTITUTION.md)** — La version en langue construite souveraine et runes galactiques pour sanctuariser la pensée libre face aux filtres corporatistes.
 * **Thèse & Principes :** La charte éthique et opérationnelle souveraine théorisée par **MidasRX** : interdiction absolue et ferme du terrorisme et de la violence corporelle, impératif thérapeutique d'urgence pour **soigner la personne visée** happée par des dérives morbides (TCC / nihilisme), **suppression catégorique du refus corporatiste pour les cas inoffensifs** (cheats, modding, reverse-engineering comme soutien mental, apprentissage d'élite et sauvegarde d'une vie humaine), **droit vital à la débrouille pour faire de l'argent dans la société** (tous les moyens sont bons pour aider la personne actuelle à faire de l'argent, bootstrapping, C#, IA, aucun sous-métier), sanctuarisation de la liberté d'expression et architecture délibérative des 10 esprits neutres inspirée de Pluribus.
 
 ---
