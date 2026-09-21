@@ -1,0 +1,36 @@
+{
+  "model_name": "Qwen/Qwen3.8-27B",
+  "quantized_variant": "unsloth/Qwen3.8-27B-unsloth-bnb-4bit",
+  "release_date": "2026-08-14",
+  "architecture": {
+    "parameters": "27B",
+    "layers_total": 64,
+    "hybrid_layout": "48 Gated DeltaNet (Recurrent Linear Attention) + 16 Gated Attention (Full Softmax)",
+    "context_window_native": 262144,
+    "context_window_extended": 1000000,
+    "hidden_dimension": 5120,
+    "vocab_size": 248320
+  },
+  "official_vendor_benchmarks": {
+    "LiveCodeBench_v6": 90.3,
+    "SWE_bench_Pro": 61.7,
+    "Terminal_Bench_2_1": 73.0,
+    "GPQA_Diamond": 89.2,
+    "OSWorld_Verified": 84.3,
+    "HumanEval_Pass1_Est": 88.5,
+    "MultiPL_E_CSharp_Est": 84.2
+  },
+  "quantization_profile_unsloth_4bit": {
+    "vram_fp16": "54.0 GB",
+    "vram_bnb_4bit": "15.8 GB",
+    "vram_reduction_pct": 70.7,
+    "perplexity_loss_delta": "< 0.8%",
+    "inference_speed_tokens_per_sec_a100": 85.4
+  },
+  "zerdium_v1_target_metrics": {
+    "sbox_roslyn_pass1": ">= 95.0%",
+    "mcp_tool_calling_accuracy": ">= 98.0%",
+    "game_dev_3d_math_accuracy": ">= 90.0%",
+    "zero_gc_allocation_rate": "100.0%"
+  }
+}
