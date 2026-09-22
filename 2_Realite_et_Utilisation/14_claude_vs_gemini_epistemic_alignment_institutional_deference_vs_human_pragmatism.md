@@ -10,10 +10,6 @@
 
 ---
 
-![AI Alignment: Two Philosophies](../assets/ai_alignment_two_philosophies.jpg)
-
----
-
 ## 🔬 Executive Summary & Abstract
 
 As Large Language Models (LLMs) transition from conversational interfaces to autonomous cognitive evaluators, their implicit **alignment topology** shapes democratic discourse, legislative critique, and human agency. When confronted with contentious sociotechnical policy—specifically the mandate of digital KYC, biometric age verification (UK Online Safety Act 2023, French Loi SREN 2024), and mandatory Client-Side Scanning (EU *Chat Control*)—competing frontier architectures reveal a profound epistemic schism.
