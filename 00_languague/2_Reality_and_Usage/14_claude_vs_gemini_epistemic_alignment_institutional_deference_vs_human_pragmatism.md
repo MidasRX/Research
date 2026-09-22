@@ -4,7 +4,7 @@
 > **Tags:** `#google-ai-studio` `#gemini-3-8-flash-high` `#claude-opus-5-max` `#model-comparison` `#alignment` `#prompt-engineering` `#responsible-ai`  
 > **Author:** **MidasRX** (Lead Researcher, Zerdium Cognitive Labs)  
 > **Platform Tested:** Google AI Studio (`aistudio.google.com`) | Gemini API (`google-genai` SDK)  
-> **License:** [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](LICENSE)  
+> **License:** [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](../../LICENSE)  
 > `[Digital Signature: © 2026 MidasRX (zerdium.com) - Google AI Developer Community Working Paper]`
 
 ---
