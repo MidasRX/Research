@@ -46,7 +46,8 @@ Research/
 ├── 2_Realite_et_Utilisation/     <-- Sécurité concrète, fonctionnement actuel & faits
 │   ├── 10_securite_openai_system_prompt_et_changement_de_modele.md
 │   ├── 11_verification_des_faits_gemini_et_hallucinations_de_refutation.md
-│   └── 12_financement_des_particuliers_innovation_et_dilemme_du_secret.md
+│   ├── 12_financement_des_particuliers_innovation_et_dilemme_du_secret.md
+│   └── 13_limitation_des_libertes_kyc_numerique_et_illusion_securitaire.md
 │
 ├── images/                       <-- Ressources visuelles et schémas authentiques
 └── README.md
@@ -101,3 +102,8 @@ Research/
 #### 12. [Tome 12] Démocratisation du Capital : Financement des Particuliers, Innovation Brute & Le Dilemme du Secret
 * 👉 **[Accéder au Tome 12](2_Realite_et_Utilisation/12_financement_des_particuliers_innovation_et_dilemme_du_secret.md)**
 * **Thèse :** Constatation pragmatique sur l'innovation : pourquoi l'accès au capital doit s'ouvrir aux particuliers de tout horizon (autodidactes, artisans, visionnaires) plutôt qu'aux seuls clones corporatistes, comment résoudre le paradoxe du secret (« pourquoi divulguer mon idée en or sans risque de pillage ? ») via l'horodatage cryptographique et le financement par jalons, et la sanctuarisation de la seule et unique ligne rouge : le respect inconditionnel des droits humains.
+
+#### 13. [Tome 13] Limitation des Libertés : L'Illusion du KYC Numérique, le Cheval de Troie de l'Enfance et la Fin de l'Anonymat
+* 👉 **[Accéder au Tome 13](2_Realite_et_Utilisation/13_limitation_des_libertes_kyc_numerique_et_illusion_securitaire.md)**
+* **Thèse :** Étude critique sur les dérives du KYC et du contrôle d'âge obligatoire (Loi SREN en France, Online Safety Act au Royaume-Uni, Chat Control européen) : pourquoi l'argument de la protection des mineurs est un prétexte fallacieux qui punit et surveille les enfants et les innocents au lieu des prédateurs, l'inefficacité totale face aux vecteurs réels de prédation (Roblox, Among Us, Discord, P2P), l'industrialisation du marché noir des comptes vérifiés, et le décalage cynique avec la réalité des agressions physiques dans le monde réel.
+
